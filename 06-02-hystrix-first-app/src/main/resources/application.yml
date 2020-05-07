@@ -1,0 +1,18 @@
+management:
+  endpoints:
+    web:
+      exposure:
+        include: hystrix.stream
+        
+
+server:
+  port: 8080
+  
+spring:
+  application:
+    name: first-service
+ 
+eureka:
+  client:
+    service-url:
+      defaultZone: http://localhost:5001/eureka      

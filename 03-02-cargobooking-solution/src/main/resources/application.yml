@@ -1,0 +1,47 @@
+server:
+  port: 8081
+  
+eureka:
+  instance:
+    instance-id: ${spring.application.name}:${random.value} 
+  client:
+    service-url:
+      defaultZone: http://localhost:5001/eureka
+
+spring:
+  application:
+    name: booking-service
+ # datasource:
+  #  url: jdbc:mysql://localhost/cargotracker
+  #  username: root
+  #  password: root
+
+  cloud:
+    stream:
+      bindings:
+        cargoBookingChannel:
+          destination: cargoBookings          
+          binder: rabbit
+        cargoRoutingChannel:
+          destination: cargoRoutings         
+          binder: rabbit
+        cargoHandlingChannel:
+          destination: cargoHandling
+          group: cargoHandlingInBookingQueue
+          binder: rabbit
+      binders:
+        rabbit:
+          type: rabbit
+          environment:
+            spring:
+              rabbitmq:
+                host: localhost
+                port: 5672
+                username: guest
+                password: guest
+  jpa:
+    generate-ddl: true
+  h2:
+    console:
+      enabled: true
+      path: /h2-console

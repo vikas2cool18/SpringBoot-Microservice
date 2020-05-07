@@ -1,0 +1,5 @@
+spring:  application:    name: hystrix-dashboard
+turbine:  app-config: first-service,second-service  cluster-name-expression: new String("default")
+
+server:
+  port: 5555eureka:  client:    service-url:      defaultZone: http://localhost:5001/eureka

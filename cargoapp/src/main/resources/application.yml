@@ -1,0 +1,48 @@
+server:
+  port: 8081
+
+spring:
+ # datasource:
+  #  url: jdbc:mysql://localhost/cargotracker
+  #  username: root
+  #  password: root
+
+  cloud:
+    stream:
+      bindings:
+        cargoBookingChannel:
+          destination: cargoBookings
+          #group: order
+          binder: rabbit
+        cargoRoutingChannel:
+          destination: cargoRoutings
+          #group: order
+          binder: rabbit
+        cargoHandlingChannel:
+          destination: cargoHandling
+          group: cargoHandlingQueue
+          binder: rabbit
+        cargoBooking:
+          destination: cargoBookings
+          group: cargoBookingsQueue
+          binder: rabbit
+        cargoRouting:
+          destination: cargoRoutings
+          group: cargoRoutingsQueue
+          binder: rabbit
+      binders:
+        rabbit:
+          type: rabbit
+          environment:
+            spring:
+              rabbitmq:
+                host: localhost
+                port: 5672
+                username: guest
+                password: guest
+  jpa:
+    generate-ddl: true
+  h2:
+    console:
+      enabled: true
+      path: /h2-console

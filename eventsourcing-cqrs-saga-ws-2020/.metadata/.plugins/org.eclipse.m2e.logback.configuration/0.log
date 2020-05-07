@@ -1,0 +1,820 @@
+2020-03-21 10:12:57,696 [Worker-1: Loading available Gradle versions] INFO  o.e.b.c.i.u.g.PublishedGradleVersions - Gradle version information cache is up-to-date. Trying to read.
+2020-03-21 10:13:46,351 [Worker-0: Importing Maven projects] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: com.way2learnonline:event-sourcing-cqrs-axon-way2learn:0.0.1-SNAPSHOT @ D:\micro-2020\eventsourcing-cqrs-saga-april-2020\event-sourcing-cqrs-axon-way2learn\event-sourcing-cqrs-axon-way2learn\pom.xml.
+2020-03-21 10:13:49,866 [Worker-0: Importing Maven projects] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /event-sourcing-cqrs-axon-way2learn/src/main/java
+2020-03-21 10:13:49,867 [Worker-0: Importing Maven projects] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /event-sourcing-cqrs-axon-way2learn/src/main/resources
+2020-03-21 10:13:49,880 [Worker-0: Importing Maven projects] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /event-sourcing-cqrs-axon-way2learn/src/main/resources
+2020-03-21 10:13:49,881 [Worker-0: Importing Maven projects] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /event-sourcing-cqrs-axon-way2learn/src/test/java
+2020-03-21 10:13:50,670 [Worker-0: Importing Maven projects] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Imported and configured 1 project(s) in 7 sec
+2020-03-21 10:13:54,560 [Worker-5: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-03-21 10:13:54,566 [Worker-5: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2020-03-21 10:13:54,589 [Worker-5: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2020-03-21 10:13:54,593 [Worker-5: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-03-21 10:13:54,593 [Worker-5: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\micro-2020\eventsourcing-cqrs-saga-april-2020\event-sourcing-cqrs-axon-way2learn\event-sourcing-cqrs-axon-way2learn\src\test\resources
+2020-03-21 10:14:44,058 [Worker-0: Building workspace] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: com.way2learnonline:event-sourcing-cqrs-axon-way2learn:0.0.1-SNAPSHOT @ D:\micro-2020\eventsourcing-cqrs-saga-april-2020\event-sourcing-cqrs-axon-way2learn\event-sourcing-cqrs-axon-way2learn\pom.xml.
+2020-03-21 10:14:47,754 [Worker-0: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-03-21 10:14:47,759 [Worker-0: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2020-03-21 10:14:47,759 [Worker-0: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2020-03-21 10:14:47,762 [Worker-0: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-03-21 10:14:47,763 [Worker-0: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\micro-2020\eventsourcing-cqrs-saga-april-2020\event-sourcing-cqrs-axon-way2learn\event-sourcing-cqrs-axon-way2learn\src\test\resources
+2020-03-21 10:15:20,414 [Worker-6: Updating Maven Project] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Update started
+2020-03-21 10:15:21,239 [Worker-6: Updating Maven Project] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: com.way2learnonline:event-sourcing-cqrs-axon-way2learn:0.0.1-SNAPSHOT @ D:\micro-2020\eventsourcing-cqrs-saga-april-2020\event-sourcing-cqrs-axon-way2learn\event-sourcing-cqrs-axon-way2learn\pom.xml.
+2020-03-21 10:15:22,680 [DefaultMetadataResolver-0-0] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/io/grpc/grpc-core/maven-metadata.xml
+2020-03-21 10:15:22,993 [DefaultMetadataResolver-0-0] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/io/grpc/grpc-core/maven-metadata.xml
+2020-03-21 10:15:24,601 [DefaultMetadataResolver-0-1] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://oss.sonatype.org/content/repositories/snapshots/io/grpc/grpc-core/maven-metadata.xml
+2020-03-21 10:15:24,945 [DefaultMetadataResolver-0-1] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://oss.sonatype.org/content/repositories/snapshots/io/grpc/grpc-core/maven-metadata.xml
+2020-03-21 10:15:25,136 [Worker-6: Updating Maven Project] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/io/grpc/grpc-core/1.22.1/grpc-core-1.22.1.pom
+2020-03-21 10:15:25,348 [Worker-6: Updating Maven Project] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/io/grpc/grpc-core/1.22.1/grpc-core-1.22.1.pom
+2020-03-21 10:15:25,724 [DefaultMetadataResolver-1-0] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/io/grpc/grpc-api/maven-metadata.xml
+2020-03-21 10:15:25,725 [DefaultMetadataResolver-1-1] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://oss.sonatype.org/content/repositories/snapshots/io/grpc/grpc-api/maven-metadata.xml
+2020-03-21 10:15:26,043 [DefaultMetadataResolver-1-1] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://oss.sonatype.org/content/repositories/snapshots/io/grpc/grpc-api/maven-metadata.xml
+2020-03-21 10:15:26,045 [DefaultMetadataResolver-1-0] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/io/grpc/grpc-api/maven-metadata.xml
+2020-03-21 10:15:26,253 [Worker-6: Updating Maven Project] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/io/perfmark/perfmark-api/0.16.0/perfmark-api-0.16.0.pom
+2020-03-21 10:15:26,463 [Worker-6: Updating Maven Project] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/io/perfmark/perfmark-api/0.16.0/perfmark-api-0.16.0.pom
+2020-03-21 10:15:26,664 [DefaultMetadataResolver-2-0] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/com/google/errorprone/error_prone_annotations/maven-metadata.xml
+2020-03-21 10:15:26,718 [DefaultMetadataResolver-2-1] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://oss.sonatype.org/content/repositories/snapshots/com/google/errorprone/error_prone_annotations/maven-metadata.xml
+2020-03-21 10:15:26,844 [DefaultMetadataResolver-2-0] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/com/google/errorprone/error_prone_annotations/maven-metadata.xml
+2020-03-21 10:15:26,959 [DefaultMetadataResolver-2-1] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://oss.sonatype.org/content/repositories/snapshots/com/google/errorprone/error_prone_annotations/maven-metadata.xml
+2020-03-21 10:15:27,175 [Worker-6: Updating Maven Project] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/io/opencensus/opencensus-api/0.21.0/opencensus-api-0.21.0.pom
+2020-03-21 10:15:27,389 [Worker-6: Updating Maven Project] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/io/opencensus/opencensus-api/0.21.0/opencensus-api-0.21.0.pom
+2020-03-21 10:15:27,586 [Worker-6: Updating Maven Project] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/io/opencensus/opencensus-contrib-grpc-metrics/0.21.0/opencensus-contrib-grpc-metrics-0.21.0.pom
+2020-03-21 10:15:27,800 [Worker-6: Updating Maven Project] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/io/opencensus/opencensus-contrib-grpc-metrics/0.21.0/opencensus-contrib-grpc-metrics-0.21.0.pom
+2020-03-21 10:15:30,145 [Worker-6: Updating Maven Project] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/springframework/boot/spring-boot-starter-data-jpa/2.2.1.RELEASE/spring-boot-starter-data-jpa-2.2.1.RELEASE.jar
+2020-03-21 10:15:30,355 [Worker-6: Updating Maven Project] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/springframework/boot/spring-boot-starter-data-jpa/2.2.1.RELEASE/spring-boot-starter-data-jpa-2.2.1.RELEASE.jar
+2020-03-21 10:15:30,965 [Worker-6: Updating Maven Project] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/springframework/boot/spring-boot-starter-jdbc/2.2.1.RELEASE/spring-boot-starter-jdbc-2.2.1.RELEASE.jar
+2020-03-21 10:15:31,175 [Worker-6: Updating Maven Project] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/springframework/boot/spring-boot-starter-jdbc/2.2.1.RELEASE/spring-boot-starter-jdbc-2.2.1.RELEASE.jar
+2020-03-21 10:15:31,374 [Worker-6: Updating Maven Project] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/springframework/spring-jdbc/5.2.1.RELEASE/spring-jdbc-5.2.1.RELEASE.jar
+2020-03-21 10:15:33,015 [Worker-6: Updating Maven Project] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/springframework/spring-jdbc/5.2.1.RELEASE/spring-jdbc-5.2.1.RELEASE.jar
+2020-03-21 10:15:33,213 [Worker-6: Updating Maven Project] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/hibernate/hibernate-core/5.4.8.Final/hibernate-core-5.4.8.Final.jar
+2020-03-21 10:15:40,087 [Worker-6: Updating Maven Project] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/hibernate/hibernate-core/5.4.8.Final/hibernate-core-5.4.8.Final.jar
+2020-03-21 10:15:40,276 [Worker-6: Updating Maven Project] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/springframework/data/spring-data-jpa/2.2.1.RELEASE/spring-data-jpa-2.2.1.RELEASE.jar
+2020-03-21 10:15:40,789 [Worker-6: Updating Maven Project] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/springframework/data/spring-data-jpa/2.2.1.RELEASE/spring-data-jpa-2.2.1.RELEASE.jar
+2020-03-21 10:15:40,993 [Worker-6: Updating Maven Project] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/springframework/data/spring-data-commons/2.2.1.RELEASE/spring-data-commons-2.2.1.RELEASE.jar
+2020-03-21 10:15:42,625 [Worker-6: Updating Maven Project] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/springframework/data/spring-data-commons/2.2.1.RELEASE/spring-data-commons-2.2.1.RELEASE.jar
+2020-03-21 10:15:42,834 [Worker-6: Updating Maven Project] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/springframework/spring-orm/5.2.1.RELEASE/spring-orm-5.2.1.RELEASE.jar
+2020-03-21 10:15:43,249 [Worker-6: Updating Maven Project] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/springframework/spring-orm/5.2.1.RELEASE/spring-orm-5.2.1.RELEASE.jar
+2020-03-21 10:15:43,445 [Worker-6: Updating Maven Project] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/springframework/spring-tx/5.2.1.RELEASE/spring-tx-5.2.1.RELEASE.jar
+2020-03-21 10:15:43,967 [Worker-6: Updating Maven Project] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/springframework/spring-tx/5.2.1.RELEASE/spring-tx-5.2.1.RELEASE.jar
+2020-03-21 10:15:44,366 [Worker-6: Updating Maven Project] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/springframework/spring-aspects/5.2.1.RELEASE/spring-aspects-5.2.1.RELEASE.jar
+2020-03-21 10:15:44,575 [Worker-6: Updating Maven Project] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/springframework/spring-aspects/5.2.1.RELEASE/spring-aspects-5.2.1.RELEASE.jar
+2020-03-21 10:15:46,312 [Worker-6: Updating Maven Project] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/io/grpc/grpc-protobuf/1.22.1/grpc-protobuf-1.22.1.jar
+2020-03-21 10:15:46,525 [Worker-6: Updating Maven Project] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/io/grpc/grpc-protobuf/1.22.1/grpc-protobuf-1.22.1.jar
+2020-03-21 10:15:46,720 [Worker-6: Updating Maven Project] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/io/grpc/grpc-api/1.22.1/grpc-api-1.22.1.jar
+2020-03-21 10:15:47,141 [Worker-6: Updating Maven Project] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/io/grpc/grpc-api/1.22.1/grpc-api-1.22.1.jar
+2020-03-21 10:15:47,340 [Worker-6: Updating Maven Project] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/io/grpc/grpc-context/1.22.1/grpc-context-1.22.1.jar
+2020-03-21 10:15:47,547 [Worker-6: Updating Maven Project] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/io/grpc/grpc-context/1.22.1/grpc-context-1.22.1.jar
+2020-03-21 10:15:47,745 [Worker-6: Updating Maven Project] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/com/google/protobuf/protobuf-java/3.7.1/protobuf-java-3.7.1.jar
+2020-03-21 10:15:49,185 [Worker-6: Updating Maven Project] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/com/google/protobuf/protobuf-java/3.7.1/protobuf-java-3.7.1.jar
+2020-03-21 10:15:49,332 [Worker-6: Updating Maven Project] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/io/grpc/grpc-protobuf-lite/1.22.1/grpc-protobuf-lite-1.22.1.jar
+2020-03-21 10:15:49,595 [Worker-6: Updating Maven Project] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/io/grpc/grpc-protobuf-lite/1.22.1/grpc-protobuf-lite-1.22.1.jar
+2020-03-21 10:15:49,792 [Worker-6: Updating Maven Project] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/io/grpc/grpc-stub/1.22.1/grpc-stub-1.22.1.jar
+2020-03-21 10:15:50,010 [Worker-6: Updating Maven Project] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/io/grpc/grpc-stub/1.22.1/grpc-stub-1.22.1.jar
+2020-03-21 10:15:50,200 [Worker-6: Updating Maven Project] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/io/grpc/grpc-netty/1.22.1/grpc-netty-1.22.1.jar
+2020-03-21 10:15:50,623 [Worker-6: Updating Maven Project] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/io/grpc/grpc-netty/1.22.1/grpc-netty-1.22.1.jar
+2020-03-21 10:15:50,813 [Worker-6: Updating Maven Project] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/io/grpc/grpc-core/1.22.1/grpc-core-1.22.1.jar
+2020-03-21 10:15:51,537 [Worker-6: Updating Maven Project] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/io/grpc/grpc-core/1.22.1/grpc-core-1.22.1.jar
+2020-03-21 10:15:51,736 [Worker-6: Updating Maven Project] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/io/perfmark/perfmark-api/0.16.0/perfmark-api-0.16.0.jar
+2020-03-21 10:15:51,945 [Worker-6: Updating Maven Project] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/io/perfmark/perfmark-api/0.16.0/perfmark-api-0.16.0.jar
+2020-03-21 10:15:52,146 [Worker-6: Updating Maven Project] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/io/opencensus/opencensus-api/0.21.0/opencensus-api-0.21.0.jar
+2020-03-21 10:15:52,763 [Worker-6: Updating Maven Project] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/io/opencensus/opencensus-api/0.21.0/opencensus-api-0.21.0.jar
+2020-03-21 10:15:52,964 [Worker-6: Updating Maven Project] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/io/opencensus/opencensus-contrib-grpc-metrics/0.21.0/opencensus-contrib-grpc-metrics-0.21.0.jar
+2020-03-21 10:15:53,176 [Worker-6: Updating Maven Project] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/io/opencensus/opencensus-contrib-grpc-metrics/0.21.0/opencensus-contrib-grpc-metrics-0.21.0.jar
+2020-03-21 10:15:53,371 [Worker-6: Updating Maven Project] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/io/netty/netty-codec-http2/4.1.43.Final/netty-codec-http2-4.1.43.Final.jar
+2020-03-21 10:15:54,092 [Worker-6: Updating Maven Project] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/io/netty/netty-codec-http2/4.1.43.Final/netty-codec-http2-4.1.43.Final.jar
+2020-03-21 10:15:54,294 [Worker-6: Updating Maven Project] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/io/netty/netty-tcnative-boringssl-static/2.0.26.Final/netty-tcnative-boringssl-static-2.0.26.Final.jar
+2020-03-21 10:15:57,373 [Worker-6: Updating Maven Project] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/io/netty/netty-tcnative-boringssl-static/2.0.26.Final/netty-tcnative-boringssl-static-2.0.26.Final.jar
+2020-03-21 10:16:00,953 [Worker-6: Updating Maven Project] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /event-sourcing-cqrs-axon-way2learn/src/main/java
+2020-03-21 10:16:00,953 [Worker-6: Updating Maven Project] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /event-sourcing-cqrs-axon-way2learn/src/main/resources
+2020-03-21 10:16:00,953 [Worker-6: Updating Maven Project] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /event-sourcing-cqrs-axon-way2learn/src/main/resources
+2020-03-21 10:16:00,954 [Worker-6: Updating Maven Project] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /event-sourcing-cqrs-axon-way2learn/src/test/java
+2020-03-21 10:16:01,541 [Worker-6: Updating Maven Project] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Update completed: 41 sec
+2020-03-21 10:16:03,492 [Worker-3: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-03-21 10:16:03,493 [Worker-3: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2020-03-21 10:16:03,511 [Worker-3: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2020-03-21 10:16:03,515 [Worker-3: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-03-21 10:16:03,516 [Worker-3: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\micro-2020\eventsourcing-cqrs-saga-april-2020\event-sourcing-cqrs-axon-way2learn\event-sourcing-cqrs-axon-way2learn\src\test\resources
+2020-03-21 10:16:04,736 [Worker-2: Download sources and javadoc] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/io/grpc/grpc-core/1.22.1/grpc-core-1.22.1-sources.jar
+2020-03-21 10:16:06,224 [Worker-2: Download sources and javadoc] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/io/grpc/grpc-core/1.22.1/grpc-core-1.22.1-sources.jar
+2020-03-21 10:16:06,327 [Worker-2: Download sources and javadoc] INFO  o.e.m.j.internal.DownloadSourcesJob - Downloaded sources for io.grpc:grpc-core:1.22.1
+2020-03-21 10:16:07,089 [Worker-2: Download sources and javadoc] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/io/perfmark/perfmark-api/0.16.0/perfmark-api-0.16.0-sources.jar
+2020-03-21 10:16:07,298 [Worker-2: Download sources and javadoc] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/io/perfmark/perfmark-api/0.16.0/perfmark-api-0.16.0-sources.jar
+2020-03-21 10:16:07,397 [Worker-2: Download sources and javadoc] INFO  o.e.m.j.internal.DownloadSourcesJob - Downloaded sources for io.perfmark:perfmark-api:0.16.0
+2020-03-21 10:16:08,212 [Worker-2: Download sources and javadoc] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/io/opencensus/opencensus-api/0.21.0/opencensus-api-0.21.0-sources.jar
+2020-03-21 10:16:10,668 [Worker-2: Download sources and javadoc] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/io/opencensus/opencensus-api/0.21.0/opencensus-api-0.21.0-sources.jar
+2020-03-21 10:16:10,712 [Worker-2: Download sources and javadoc] INFO  o.e.m.j.internal.DownloadSourcesJob - Downloaded sources for io.opencensus:opencensus-api:0.21.0
+2020-03-21 10:16:11,589 [Worker-2: Download sources and javadoc] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/io/opencensus/opencensus-contrib-grpc-metrics/0.21.0/opencensus-contrib-grpc-metrics-0.21.0-sources.jar
+2020-03-21 10:16:11,800 [Worker-2: Download sources and javadoc] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/io/opencensus/opencensus-contrib-grpc-metrics/0.21.0/opencensus-contrib-grpc-metrics-0.21.0-sources.jar
+2020-03-21 10:16:11,875 [Worker-2: Download sources and javadoc] INFO  o.e.m.j.internal.DownloadSourcesJob - Downloaded sources for io.opencensus:opencensus-contrib-grpc-metrics:0.21.0
+2020-03-21 10:16:11,886 [Worker-2: Download sources and javadoc] INFO  o.e.m.j.internal.DownloadSourcesJob - Downloaded sources for io.grpc:grpc-core:1.22.1
+2020-03-21 10:16:11,895 [Worker-2: Download sources and javadoc] INFO  o.e.m.j.internal.DownloadSourcesJob - Downloaded sources for io.perfmark:perfmark-api:0.16.0
+2020-03-21 10:16:11,902 [Worker-2: Download sources and javadoc] INFO  o.e.m.j.internal.DownloadSourcesJob - Downloaded sources for io.opencensus:opencensus-api:0.21.0
+2020-03-21 10:16:11,909 [Worker-2: Download sources and javadoc] INFO  o.e.m.j.internal.DownloadSourcesJob - Downloaded sources for io.opencensus:opencensus-contrib-grpc-metrics:0.21.0
+2020-03-21 10:16:12,597 [Worker-5: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-03-21 10:16:12,599 [Worker-5: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2020-03-21 10:16:12,599 [Worker-5: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2020-03-21 10:16:12,603 [Worker-5: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-03-21 10:16:12,603 [Worker-5: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\micro-2020\eventsourcing-cqrs-saga-april-2020\event-sourcing-cqrs-axon-way2learn\event-sourcing-cqrs-axon-way2learn\src\test\resources
+2020-03-21 10:31:33,235 [Worker-7: Importing Maven projects] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: com.progressivecoder.es:event-sourcing-axon-way2learn:0.0.1-SNAPSHOT @ D:\micro-2020\eventsourcing-cqrs-saga-april-2020\event-sourcing-axon-way2learn\event-sourcing-axon-way2learn\pom.xml.
+2020-03-21 10:31:34,688 [Worker-7: Importing Maven projects] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /event-sourcing-axon-way2learn/src/main/java
+2020-03-21 10:31:34,688 [Worker-7: Importing Maven projects] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /event-sourcing-axon-way2learn/src/main/resources
+2020-03-21 10:31:34,688 [Worker-7: Importing Maven projects] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /event-sourcing-axon-way2learn/src/main/resources
+2020-03-21 10:31:34,689 [Worker-7: Importing Maven projects] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /event-sourcing-axon-way2learn/src/test/java
+2020-03-21 10:31:35,170 [Worker-7: Importing Maven projects] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Imported and configured 1 project(s) in 2 sec
+2020-03-21 10:31:37,286 [Worker-12: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-03-21 10:31:37,287 [Worker-12: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2020-03-21 10:31:37,288 [Worker-12: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2020-03-21 10:31:37,291 [Worker-12: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-03-21 10:31:37,291 [Worker-12: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\micro-2020\eventsourcing-cqrs-saga-april-2020\event-sourcing-axon-way2learn\event-sourcing-axon-way2learn\src\test\resources
+2020-03-21 10:33:43,936 [Worker-11: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-03-21 10:33:43,939 [Worker-11: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2020-03-21 10:33:43,940 [Worker-11: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2020-03-21 10:33:43,943 [Worker-11: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-03-21 10:33:43,943 [Worker-11: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\micro-2020\eventsourcing-cqrs-saga-april-2020\event-sourcing-cqrs-axon-way2learn\event-sourcing-cqrs-axon-way2learn\src\test\resources
+2020-03-21 10:34:13,228 [Worker-13: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-03-21 10:34:13,228 [Worker-13: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2020-03-21 10:34:13,230 [Worker-13: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2020-03-21 10:34:13,232 [Worker-13: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-03-21 10:34:13,233 [Worker-13: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\micro-2020\eventsourcing-cqrs-saga-april-2020\event-sourcing-cqrs-axon-way2learn\event-sourcing-cqrs-axon-way2learn\src\test\resources
+2020-03-21 10:34:17,913 [Worker-13: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-03-21 10:34:17,914 [Worker-13: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2020-03-21 10:34:17,915 [Worker-13: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2020-03-21 10:34:17,918 [Worker-13: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-03-21 10:34:17,918 [Worker-13: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\micro-2020\eventsourcing-cqrs-saga-april-2020\event-sourcing-cqrs-axon-way2learn\event-sourcing-cqrs-axon-way2learn\src\test\resources
+2020-03-21 10:38:23,837 [Worker-7: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-03-21 10:38:23,837 [Worker-7: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2020-03-21 10:38:23,838 [Worker-7: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2020-03-21 10:38:23,842 [Worker-7: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-03-21 10:38:23,842 [Worker-7: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\micro-2020\eventsourcing-cqrs-saga-april-2020\event-sourcing-cqrs-axon-way2learn\event-sourcing-cqrs-axon-way2learn\src\test\resources
+2020-03-21 11:13:26,292 [Worker-24: Updating Maven Dependencies] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: com.progressivecoder.es:event-sourcing-axon-way2learn:0.0.1-SNAPSHOT @ D:\micro-2020\eventsourcing-cqrs-saga-april-2020\event-sourcing-axon-way2learn\event-sourcing-axon-way2learn\pom.xml.
+2020-03-21 11:13:28,452 [Worker-27: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-03-21 11:13:28,453 [Worker-27: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2020-03-21 11:13:28,455 [Worker-27: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2020-03-21 11:13:28,461 [Worker-27: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-03-21 11:13:28,462 [Worker-27: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\micro-2020\eventsourcing-cqrs-saga-april-2020\event-sourcing-axon-way2learn\event-sourcing-axon-way2learn\src\test\resources
+2020-03-21 11:34:04,290 [Worker-38: Import Getting Started Content] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: com.way2learnonline:01-es-cqrs-axon-solution:0.0.1-SNAPSHOT @ D:\micro-2020\eventsourcing-cqrs-saga-april-2020\ws\01-es-cqrs-axon-solution\pom.xml.
+2020-03-21 11:34:05,271 [Worker-38: Import Getting Started Content] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /01-es-cqrs-axon-solution/src/main/java
+2020-03-21 11:34:05,272 [Worker-38: Import Getting Started Content] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /01-es-cqrs-axon-solution/src/main/resources
+2020-03-21 11:34:05,278 [Worker-38: Import Getting Started Content] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /01-es-cqrs-axon-solution/src/main/resources
+2020-03-21 11:34:05,286 [Worker-38: Import Getting Started Content] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /01-es-cqrs-axon-solution/src/test/java
+2020-03-21 11:34:05,774 [Worker-38: Import Getting Started Content] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Imported and configured 1 project(s) in 2 sec
+2020-03-21 11:34:05,776 [Worker-38: Import Getting Started Content] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Update started
+2020-03-21 11:34:06,175 [Worker-38: Import Getting Started Content] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: com.way2learnonline:01-es-cqrs-axon-solution:0.0.1-SNAPSHOT @ D:\micro-2020\eventsourcing-cqrs-saga-april-2020\ws\01-es-cqrs-axon-solution\pom.xml.
+2020-03-21 11:34:07,038 [Worker-38: Import Getting Started Content] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /01-es-cqrs-axon-solution/src/main/java
+2020-03-21 11:34:07,038 [Worker-38: Import Getting Started Content] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /01-es-cqrs-axon-solution/src/main/resources
+2020-03-21 11:34:07,040 [Worker-38: Import Getting Started Content] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /01-es-cqrs-axon-solution/src/main/resources
+2020-03-21 11:34:07,045 [Worker-38: Import Getting Started Content] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /01-es-cqrs-axon-solution/src/test/java
+2020-03-21 11:34:07,313 [Worker-38: Import Getting Started Content] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Update completed: 1 sec
+2020-03-21 11:34:08,123 [Worker-37: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-03-21 11:34:08,124 [Worker-37: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2020-03-21 11:34:08,125 [Worker-37: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2020-03-21 11:34:08,127 [Worker-37: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-03-21 11:34:08,128 [Worker-37: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\micro-2020\eventsourcing-cqrs-saga-april-2020\ws\01-es-cqrs-axon-solution\src\test\resources
+2020-03-21 11:35:04,521 [Worker-37: Import Getting Started Content] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: com.way2learnonline:01-es-cqrs-commandapp-solution:0.0.1-SNAPSHOT @ D:\micro-2020\eventsourcing-cqrs-saga-april-2020\ws\01-es-cqrs-commandapp-solution\pom.xml.
+2020-03-21 11:35:05,330 [Worker-37: Import Getting Started Content] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /01-es-cqrs-commandapp-solution/src/main/java
+2020-03-21 11:35:05,330 [Worker-37: Import Getting Started Content] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /01-es-cqrs-commandapp-solution/src/main/resources
+2020-03-21 11:35:05,337 [Worker-37: Import Getting Started Content] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /01-es-cqrs-commandapp-solution/src/main/resources
+2020-03-21 11:35:05,346 [Worker-37: Import Getting Started Content] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /01-es-cqrs-commandapp-solution/src/test/java
+2020-03-21 11:35:05,770 [Worker-37: Import Getting Started Content] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Imported and configured 1 project(s) in 1 sec
+2020-03-21 11:35:05,771 [Worker-37: Import Getting Started Content] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Update started
+2020-03-21 11:35:06,071 [Worker-37: Import Getting Started Content] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: com.way2learnonline:01-es-cqrs-commandapp-solution:0.0.1-SNAPSHOT @ D:\micro-2020\eventsourcing-cqrs-saga-april-2020\ws\01-es-cqrs-commandapp-solution\pom.xml.
+2020-03-21 11:35:06,904 [Worker-37: Import Getting Started Content] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /01-es-cqrs-commandapp-solution/src/main/java
+2020-03-21 11:35:06,905 [Worker-37: Import Getting Started Content] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /01-es-cqrs-commandapp-solution/src/main/resources
+2020-03-21 11:35:06,907 [Worker-37: Import Getting Started Content] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /01-es-cqrs-commandapp-solution/src/main/resources
+2020-03-21 11:35:06,910 [Worker-37: Import Getting Started Content] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /01-es-cqrs-commandapp-solution/src/test/java
+2020-03-21 11:35:07,155 [Worker-37: Import Getting Started Content] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Update completed: 1 sec
+2020-03-21 11:35:08,080 [Worker-37: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-03-21 11:35:08,081 [Worker-37: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2020-03-21 11:35:08,082 [Worker-37: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2020-03-21 11:35:08,084 [Worker-37: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-03-21 11:35:08,085 [Worker-37: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\micro-2020\eventsourcing-cqrs-saga-april-2020\ws\01-es-cqrs-commandapp-solution\src\test\resources
+2020-03-21 11:35:50,525 [Worker-35: Import Getting Started Content] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: com.way2learnonline:01-es-cqrs-queryapp-solution:0.0.1-SNAPSHOT @ D:\micro-2020\eventsourcing-cqrs-saga-april-2020\ws\01-es-cqrs-queryapp-solution\pom.xml.
+2020-03-21 11:35:51,231 [Worker-35: Import Getting Started Content] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /01-es-cqrs-queryapp-solution/src/main/java
+2020-03-21 11:35:51,232 [Worker-35: Import Getting Started Content] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /01-es-cqrs-queryapp-solution/src/main/resources
+2020-03-21 11:35:51,237 [Worker-35: Import Getting Started Content] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /01-es-cqrs-queryapp-solution/src/main/resources
+2020-03-21 11:35:51,245 [Worker-35: Import Getting Started Content] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /01-es-cqrs-queryapp-solution/src/test/java
+2020-03-21 11:35:51,766 [Worker-35: Import Getting Started Content] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Imported and configured 1 project(s) in 1 sec
+2020-03-21 11:35:51,767 [Worker-35: Import Getting Started Content] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Update started
+2020-03-21 11:35:52,303 [Worker-35: Import Getting Started Content] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: com.way2learnonline:01-es-cqrs-queryapp-solution:0.0.1-SNAPSHOT @ D:\micro-2020\eventsourcing-cqrs-saga-april-2020\ws\01-es-cqrs-queryapp-solution\pom.xml.
+2020-03-21 11:35:53,446 [Worker-35: Import Getting Started Content] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /01-es-cqrs-queryapp-solution/src/main/java
+2020-03-21 11:35:53,446 [Worker-35: Import Getting Started Content] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /01-es-cqrs-queryapp-solution/src/main/resources
+2020-03-21 11:35:53,449 [Worker-35: Import Getting Started Content] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /01-es-cqrs-queryapp-solution/src/main/resources
+2020-03-21 11:35:53,452 [Worker-35: Import Getting Started Content] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /01-es-cqrs-queryapp-solution/src/test/java
+2020-03-21 11:35:53,835 [Worker-35: Import Getting Started Content] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Update completed: 2 sec
+2020-03-21 11:35:54,872 [Worker-35: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-03-21 11:35:54,873 [Worker-35: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2020-03-21 11:35:54,875 [Worker-35: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2020-03-21 11:35:54,877 [Worker-35: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-03-21 11:35:54,878 [Worker-35: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\micro-2020\eventsourcing-cqrs-saga-april-2020\ws\01-es-cqrs-queryapp-solution\src\test\resources
+2020-03-21 11:36:40,479 [Worker-41: Building workspace] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: com.way2learnonline:01-es-cqrs-commandapp-solution:0.0.1-SNAPSHOT @ D:\micro-2020\eventsourcing-cqrs-saga-april-2020\ws\01-es-cqrs-commandapp-solution\pom.xml.
+2020-03-21 11:36:41,972 [Worker-41: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-03-21 11:36:41,973 [Worker-41: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2020-03-21 11:36:41,973 [Worker-41: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2020-03-21 11:36:41,975 [Worker-41: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-03-21 11:36:41,975 [Worker-41: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\micro-2020\eventsourcing-cqrs-saga-april-2020\ws\01-es-cqrs-commandapp-solution\src\test\resources
+2020-03-21 11:36:44,419 [Worker-40: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-03-21 11:36:44,426 [Worker-40: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2020-03-21 11:36:44,427 [Worker-40: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2020-03-21 11:36:44,428 [Worker-40: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-03-21 11:36:44,429 [Worker-40: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\micro-2020\eventsourcing-cqrs-saga-april-2020\ws\01-es-cqrs-commandapp-solution\src\test\resources
+2020-03-21 11:37:04,292 [Worker-40: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-03-21 11:37:04,293 [Worker-40: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2020-03-21 11:37:04,293 [Worker-40: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2020-03-21 11:37:04,295 [Worker-40: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-03-21 11:37:04,295 [Worker-40: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\micro-2020\eventsourcing-cqrs-saga-april-2020\ws\01-es-cqrs-commandapp-solution\src\test\resources
+2020-03-21 11:37:16,333 [Worker-42: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-03-21 11:37:16,333 [Worker-42: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2020-03-21 11:37:16,334 [Worker-42: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2020-03-21 11:37:16,336 [Worker-42: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-03-21 11:37:16,337 [Worker-42: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\micro-2020\eventsourcing-cqrs-saga-april-2020\ws\01-es-cqrs-commandapp-solution\src\test\resources
+2020-03-21 11:37:29,139 [Worker-38: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-03-21 11:37:29,139 [Worker-38: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2020-03-21 11:37:29,140 [Worker-38: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2020-03-21 11:37:29,144 [Worker-38: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-03-21 11:37:29,144 [Worker-38: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\micro-2020\eventsourcing-cqrs-saga-april-2020\ws\01-es-cqrs-commandapp-solution\src\test\resources
+2020-03-21 11:37:33,468 [Worker-42: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-03-21 11:37:33,469 [Worker-42: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2020-03-21 11:37:33,470 [Worker-42: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2020-03-21 11:37:33,473 [Worker-42: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-03-21 11:37:33,473 [Worker-42: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\micro-2020\eventsourcing-cqrs-saga-april-2020\ws\01-es-cqrs-commandapp-solution\src\test\resources
+2020-03-21 11:37:45,077 [Worker-39: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-03-21 11:37:45,078 [Worker-39: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2020-03-21 11:37:45,078 [Worker-39: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2020-03-21 11:37:45,080 [Worker-39: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-03-21 11:37:45,080 [Worker-39: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\micro-2020\eventsourcing-cqrs-saga-april-2020\ws\01-es-cqrs-commandapp-solution\src\test\resources
+2020-03-21 11:37:56,477 [Worker-39: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-03-21 11:37:56,478 [Worker-39: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2020-03-21 11:37:56,479 [Worker-39: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2020-03-21 11:37:56,481 [Worker-39: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-03-21 11:37:56,481 [Worker-39: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\micro-2020\eventsourcing-cqrs-saga-april-2020\ws\01-es-cqrs-commandapp-solution\src\test\resources
+2020-03-21 11:38:18,400 [Worker-38: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-03-21 11:38:18,401 [Worker-38: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2020-03-21 11:38:18,401 [Worker-38: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2020-03-21 11:38:18,406 [Worker-38: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-03-21 11:38:18,406 [Worker-38: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\micro-2020\eventsourcing-cqrs-saga-april-2020\ws\01-es-cqrs-commandapp-solution\src\test\resources
+2020-03-21 11:38:27,508 [Worker-42: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-03-21 11:38:27,508 [Worker-42: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2020-03-21 11:38:27,509 [Worker-42: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2020-03-21 11:38:27,512 [Worker-42: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-03-21 11:38:27,512 [Worker-42: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\micro-2020\eventsourcing-cqrs-saga-april-2020\ws\01-es-cqrs-commandapp-solution\src\test\resources
+2020-03-21 11:38:34,158 [Worker-38: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-03-21 11:38:34,158 [Worker-38: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2020-03-21 11:38:34,158 [Worker-38: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2020-03-21 11:38:34,160 [Worker-38: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-03-21 11:38:34,160 [Worker-38: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\micro-2020\eventsourcing-cqrs-saga-april-2020\ws\01-es-cqrs-commandapp-solution\src\test\resources
+2020-03-21 11:38:37,874 [Worker-41: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-03-21 11:38:37,874 [Worker-41: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2020-03-21 11:38:37,875 [Worker-41: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2020-03-21 11:38:37,877 [Worker-41: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-03-21 11:38:37,877 [Worker-41: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\micro-2020\eventsourcing-cqrs-saga-april-2020\ws\01-es-cqrs-commandapp-solution\src\test\resources
+2020-03-21 11:38:44,135 [Worker-42: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-03-21 11:38:44,135 [Worker-42: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2020-03-21 11:38:44,136 [Worker-42: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2020-03-21 11:38:44,140 [Worker-42: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-03-21 11:38:44,140 [Worker-42: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\micro-2020\eventsourcing-cqrs-saga-april-2020\ws\01-es-cqrs-commandapp-solution\src\test\resources
+2020-03-21 11:43:49,193 [Worker-35: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-03-21 11:43:49,193 [Worker-35: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2020-03-21 11:43:49,195 [Worker-35: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2020-03-21 11:43:49,197 [Worker-35: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-03-21 11:43:49,197 [Worker-35: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\micro-2020\eventsourcing-cqrs-saga-april-2020\ws\01-es-cqrs-commandapp-solution\src\test\resources
+2020-03-21 11:44:07,996 [Worker-42: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-03-21 11:44:07,996 [Worker-42: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2020-03-21 11:44:07,998 [Worker-42: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2020-03-21 11:44:08,000 [Worker-42: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-03-21 11:44:08,000 [Worker-42: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\micro-2020\eventsourcing-cqrs-saga-april-2020\ws\01-es-cqrs-queryapp-solution\src\test\resources
+2020-03-21 11:44:09,936 [Worker-43: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-03-21 11:44:09,936 [Worker-43: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2020-03-21 11:44:09,937 [Worker-43: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2020-03-21 11:44:09,939 [Worker-43: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-03-21 11:44:09,939 [Worker-43: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\micro-2020\eventsourcing-cqrs-saga-april-2020\ws\01-es-cqrs-queryapp-solution\src\test\resources
+2020-03-21 11:44:26,503 [Worker-43: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-03-21 11:44:26,504 [Worker-43: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2020-03-21 11:44:26,505 [Worker-43: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2020-03-21 11:44:26,506 [Worker-43: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-03-21 11:44:26,507 [Worker-43: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\micro-2020\eventsourcing-cqrs-saga-april-2020\ws\01-es-cqrs-queryapp-solution\src\test\resources
+2020-03-21 11:44:32,670 [Worker-43: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-03-21 11:44:32,671 [Worker-43: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2020-03-21 11:44:32,673 [Worker-43: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2020-03-21 11:44:32,688 [Worker-43: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-03-21 11:44:32,688 [Worker-43: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\micro-2020\eventsourcing-cqrs-saga-april-2020\ws\01-es-cqrs-queryapp-solution\src\test\resources
+2020-03-21 11:44:55,945 [Worker-45: Building workspace] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: com.way2learnonline:01-es-cqrs-queryapp-solution:0.0.1-SNAPSHOT @ D:\micro-2020\eventsourcing-cqrs-saga-april-2020\ws\01-es-cqrs-queryapp-solution\pom.xml.
+2020-03-21 11:44:57,115 [Worker-45: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-03-21 11:44:57,116 [Worker-45: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2020-03-21 11:44:57,116 [Worker-45: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2020-03-21 11:44:57,118 [Worker-45: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-03-21 11:44:57,118 [Worker-45: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\micro-2020\eventsourcing-cqrs-saga-april-2020\ws\01-es-cqrs-queryapp-solution\src\test\resources
+2020-03-21 11:44:59,741 [Worker-44: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-03-21 11:44:59,742 [Worker-44: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2020-03-21 11:44:59,743 [Worker-44: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2020-03-21 11:44:59,745 [Worker-44: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-03-21 11:44:59,745 [Worker-44: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\micro-2020\eventsourcing-cqrs-saga-april-2020\ws\01-es-cqrs-queryapp-solution\src\test\resources
+2020-03-21 11:49:17,207 [Worker-47: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-03-21 11:49:17,207 [Worker-47: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2020-03-21 11:49:17,208 [Worker-47: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2020-03-21 11:49:17,210 [Worker-47: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-03-21 11:49:17,210 [Worker-47: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\micro-2020\eventsourcing-cqrs-saga-april-2020\ws\01-es-cqrs-queryapp-solution\src\test\resources
+2020-03-21 11:49:41,456 [Worker-43: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-03-21 11:49:41,457 [Worker-43: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2020-03-21 11:49:41,460 [Worker-43: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2020-03-21 11:49:41,462 [Worker-43: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-03-21 11:49:41,462 [Worker-43: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\micro-2020\eventsourcing-cqrs-saga-april-2020\ws\01-es-cqrs-queryapp-solution\src\test\resources
+2020-03-21 11:49:47,310 [Worker-48: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-03-21 11:49:47,311 [Worker-48: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2020-03-21 11:49:47,313 [Worker-48: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2020-03-21 11:49:47,315 [Worker-48: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-03-21 11:49:47,316 [Worker-48: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\micro-2020\eventsourcing-cqrs-saga-april-2020\ws\01-es-cqrs-queryapp-solution\src\test\resources
+2020-03-21 11:49:55,339 [Worker-49: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-03-21 11:49:55,340 [Worker-49: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2020-03-21 11:49:55,341 [Worker-49: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2020-03-21 11:49:55,342 [Worker-49: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-03-21 11:49:55,343 [Worker-49: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\micro-2020\eventsourcing-cqrs-saga-april-2020\ws\01-es-cqrs-queryapp-solution\src\test\resources
+2020-03-21 11:50:45,743 [Worker-35: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-03-21 11:50:45,743 [Worker-35: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2020-03-21 11:50:45,744 [Worker-35: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2020-03-21 11:50:45,746 [Worker-35: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-03-21 11:50:45,746 [Worker-35: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\micro-2020\eventsourcing-cqrs-saga-april-2020\ws\01-es-cqrs-queryapp-solution\src\test\resources
+2020-03-21 11:51:30,080 [Worker-48: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-03-21 11:51:30,080 [Worker-48: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2020-03-21 11:51:30,082 [Worker-48: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2020-03-21 11:51:30,084 [Worker-48: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-03-21 11:51:30,084 [Worker-48: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\micro-2020\eventsourcing-cqrs-saga-april-2020\ws\01-es-cqrs-queryapp-solution\src\test\resources
+2020-03-21 11:52:06,845 [Worker-48: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-03-21 11:52:06,846 [Worker-48: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2020-03-21 11:52:06,847 [Worker-48: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2020-03-21 11:52:06,849 [Worker-48: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-03-21 11:52:06,849 [Worker-48: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\micro-2020\eventsourcing-cqrs-saga-april-2020\ws\01-es-cqrs-queryapp-solution\src\test\resources
+2020-03-21 11:52:13,613 [Worker-35: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-03-21 11:52:13,615 [Worker-35: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2020-03-21 11:52:13,616 [Worker-35: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2020-03-21 11:52:13,617 [Worker-35: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-03-21 11:52:13,617 [Worker-35: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\micro-2020\eventsourcing-cqrs-saga-april-2020\ws\01-es-cqrs-queryapp-solution\src\test\resources
+2020-03-21 11:52:24,513 [Worker-35: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-03-21 11:52:24,513 [Worker-35: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2020-03-21 11:52:24,514 [Worker-35: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2020-03-21 11:52:24,516 [Worker-35: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-03-21 11:52:24,516 [Worker-35: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\micro-2020\eventsourcing-cqrs-saga-april-2020\ws\01-es-cqrs-queryapp-solution\src\test\resources
+2020-03-21 11:52:38,512 [Worker-48: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-03-21 11:52:38,513 [Worker-48: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2020-03-21 11:52:38,514 [Worker-48: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2020-03-21 11:52:38,516 [Worker-48: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-03-21 11:52:38,516 [Worker-48: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\micro-2020\eventsourcing-cqrs-saga-april-2020\ws\01-es-cqrs-queryapp-solution\src\test\resources
+2020-03-21 11:52:49,373 [Worker-43: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-03-21 11:52:49,374 [Worker-43: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2020-03-21 11:52:49,375 [Worker-43: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2020-03-21 11:52:49,378 [Worker-43: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-03-21 11:52:49,378 [Worker-43: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\micro-2020\eventsourcing-cqrs-saga-april-2020\ws\01-es-cqrs-queryapp-solution\src\test\resources
+2020-03-21 11:53:23,351 [Worker-35: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-03-21 11:53:23,352 [Worker-35: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2020-03-21 11:53:23,353 [Worker-35: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2020-03-21 11:53:23,355 [Worker-35: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-03-21 11:53:23,355 [Worker-35: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\micro-2020\eventsourcing-cqrs-saga-april-2020\ws\01-es-cqrs-queryapp-solution\src\test\resources
+2020-03-21 11:56:18,184 [Worker-43: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-03-21 11:56:18,185 [Worker-43: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2020-03-21 11:56:18,185 [Worker-43: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2020-03-21 11:56:18,187 [Worker-43: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-03-21 11:56:18,188 [Worker-43: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\micro-2020\eventsourcing-cqrs-saga-april-2020\ws\01-es-cqrs-queryapp-solution\src\test\resources
+2020-03-21 12:17:16,817 [Worker-54: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-03-21 12:17:16,822 [Worker-54: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2020-03-21 12:17:16,824 [Worker-54: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2020-03-21 12:17:16,829 [Worker-54: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-03-21 12:17:16,829 [Worker-54: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\micro-2020\eventsourcing-cqrs-saga-april-2020\ws\01-es-cqrs-queryapp-solution\src\test\resources
+2020-03-21 12:17:46,938 [Worker-54: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-03-21 12:17:46,939 [Worker-54: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2020-03-21 12:17:46,941 [Worker-54: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2020-03-21 12:17:46,943 [Worker-54: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-03-21 12:17:46,943 [Worker-54: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\micro-2020\eventsourcing-cqrs-saga-april-2020\ws\01-es-cqrs-queryapp-solution\src\test\resources
+2020-03-21 12:18:00,178 [Worker-54: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-03-21 12:18:00,180 [Worker-54: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2020-03-21 12:18:00,181 [Worker-54: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2020-03-21 12:18:00,184 [Worker-54: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-03-21 12:18:00,184 [Worker-54: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\micro-2020\eventsourcing-cqrs-saga-april-2020\ws\01-es-cqrs-queryapp-solution\src\test\resources
+2020-03-21 12:55:51,531 [Worker-61: Import Getting Started Content] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: com.way2learnonline:01-saga-coreapis:0.0.1-SNAPSHOT @ D:\micro-2020\eventsourcing-cqrs-saga-april-2020\ws\01-saga-coreapis\pom.xml.
+2020-03-21 12:55:52,524 [Worker-61: Import Getting Started Content] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /01-saga-coreapis/src/main/java
+2020-03-21 12:55:52,526 [Worker-61: Import Getting Started Content] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /01-saga-coreapis/src/main/resources
+2020-03-21 12:55:52,536 [Worker-61: Import Getting Started Content] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /01-saga-coreapis/src/main/resources
+2020-03-21 12:55:52,549 [Worker-61: Import Getting Started Content] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /01-saga-coreapis/src/test/java
+2020-03-21 12:55:53,018 [Worker-61: Import Getting Started Content] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Imported and configured 1 project(s) in 2 sec
+2020-03-21 12:55:53,019 [Worker-61: Import Getting Started Content] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Update started
+2020-03-21 12:55:53,332 [Worker-61: Import Getting Started Content] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: com.way2learnonline:01-saga-coreapis:0.0.1-SNAPSHOT @ D:\micro-2020\eventsourcing-cqrs-saga-april-2020\ws\01-saga-coreapis\pom.xml.
+2020-03-21 12:55:54,059 [Worker-61: Import Getting Started Content] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /01-saga-coreapis/src/main/java
+2020-03-21 12:55:54,059 [Worker-61: Import Getting Started Content] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /01-saga-coreapis/src/main/resources
+2020-03-21 12:55:54,060 [Worker-61: Import Getting Started Content] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /01-saga-coreapis/src/main/resources
+2020-03-21 12:55:54,064 [Worker-61: Import Getting Started Content] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /01-saga-coreapis/src/test/java
+2020-03-21 12:55:54,303 [Worker-61: Import Getting Started Content] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Update completed: 1 sec
+2020-03-21 12:55:55,056 [Worker-67: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-03-21 12:55:55,056 [Worker-67: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2020-03-21 12:55:55,058 [Worker-67: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2020-03-21 12:55:55,060 [Worker-67: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-03-21 12:55:55,060 [Worker-67: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\micro-2020\eventsourcing-cqrs-saga-april-2020\ws\01-saga-coreapis\src\test\resources
+2020-03-21 12:56:53,464 [Worker-66: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-03-21 12:56:53,466 [Worker-66: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2020-03-21 12:56:53,470 [Worker-66: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2020-03-21 12:56:53,473 [Worker-66: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-03-21 12:56:53,473 [Worker-66: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\micro-2020\eventsourcing-cqrs-saga-april-2020\ws\01-saga-coreapis\src\test\resources
+2020-03-21 12:56:57,750 [Worker-65: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-03-21 12:56:57,752 [Worker-65: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2020-03-21 12:56:57,754 [Worker-65: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2020-03-21 12:56:57,756 [Worker-65: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-03-21 12:56:57,756 [Worker-65: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\micro-2020\eventsourcing-cqrs-saga-april-2020\ws\01-saga-coreapis\src\test\resources
+2020-03-21 12:57:00,727 [Worker-61: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-03-21 12:57:00,728 [Worker-61: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2020-03-21 12:57:00,730 [Worker-61: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2020-03-21 12:57:00,732 [Worker-61: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-03-21 12:57:00,732 [Worker-61: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\micro-2020\eventsourcing-cqrs-saga-april-2020\ws\01-saga-coreapis\src\test\resources
+2020-03-21 12:57:20,782 [Worker-61: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-03-21 12:57:20,783 [Worker-61: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2020-03-21 12:57:20,784 [Worker-61: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2020-03-21 12:57:20,785 [Worker-61: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-03-21 12:57:20,785 [Worker-61: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\micro-2020\eventsourcing-cqrs-saga-april-2020\ws\01-saga-coreapis\src\test\resources
+2020-03-21 12:58:13,319 [Worker-69: Building workspace] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: com.way2learnonline:01-saga-coreapis:0.0.1-SNAPSHOT @ D:\micro-2020\eventsourcing-cqrs-saga-april-2020\ws\01-saga-coreapis\pom.xml.
+2020-03-21 12:58:13,832 [Worker-69: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-03-21 12:58:13,833 [Worker-69: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2020-03-21 12:58:13,833 [Worker-69: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2020-03-21 12:58:13,834 [Worker-69: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-03-21 12:58:13,834 [Worker-69: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\micro-2020\eventsourcing-cqrs-saga-april-2020\ws\01-saga-coreapis\src\test\resources
+2020-03-21 12:58:15,557 [Worker-61: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-03-21 12:58:15,558 [Worker-61: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2020-03-21 12:58:15,561 [Worker-61: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2020-03-21 12:58:15,563 [Worker-61: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-03-21 12:58:15,563 [Worker-61: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\micro-2020\eventsourcing-cqrs-saga-april-2020\ws\01-saga-coreapis\src\test\resources
+2020-03-21 12:58:24,942 [Worker-65: Building workspace] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: com.way2learnonline:01-saga-coreapis:0.0.1-SNAPSHOT @ D:\micro-2020\eventsourcing-cqrs-saga-april-2020\ws\01-saga-coreapis\pom.xml.
+2020-03-21 12:58:25,157 [Worker-65: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-03-21 12:58:25,157 [Worker-65: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2020-03-21 12:58:25,157 [Worker-65: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2020-03-21 12:58:25,160 [Worker-65: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-03-21 12:58:25,160 [Worker-65: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\micro-2020\eventsourcing-cqrs-saga-april-2020\ws\01-saga-coreapis\src\test\resources
+2020-03-21 12:58:31,020 [Worker-69: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-03-21 12:58:31,020 [Worker-69: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2020-03-21 12:58:31,020 [Worker-69: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2020-03-21 12:58:31,022 [Worker-69: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-03-21 12:58:31,023 [Worker-69: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\micro-2020\eventsourcing-cqrs-saga-april-2020\ws\01-saga-coreapis\src\test\resources
+2020-03-21 12:59:26,525 [Worker-65: Import Getting Started Content] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: com.way2learnonline:01-orderservice-solution:0.0.1-SNAPSHOT @ D:\micro-2020\eventsourcing-cqrs-saga-april-2020\ws\01-orderservice-solution\pom.xml.
+2020-03-21 12:59:27,279 [Worker-65: Import Getting Started Content] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /01-orderservice-solution/src/main/java
+2020-03-21 12:59:27,280 [Worker-65: Import Getting Started Content] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /01-orderservice-solution/src/main/resources
+2020-03-21 12:59:27,294 [Worker-65: Import Getting Started Content] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /01-orderservice-solution/src/main/resources
+2020-03-21 12:59:27,326 [Worker-65: Import Getting Started Content] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /01-orderservice-solution/src/test/java
+2020-03-21 12:59:28,084 [Worker-65: Import Getting Started Content] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Imported and configured 1 project(s) in 2 sec
+2020-03-21 12:59:28,086 [Worker-65: Import Getting Started Content] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Update started
+2020-03-21 12:59:28,399 [Worker-65: Import Getting Started Content] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: com.way2learnonline:01-orderservice-solution:0.0.1-SNAPSHOT @ D:\micro-2020\eventsourcing-cqrs-saga-april-2020\ws\01-orderservice-solution\pom.xml.
+2020-03-21 12:59:29,175 [Worker-65: Import Getting Started Content] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /01-orderservice-solution/src/main/java
+2020-03-21 12:59:29,176 [Worker-65: Import Getting Started Content] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /01-orderservice-solution/src/main/resources
+2020-03-21 12:59:29,177 [Worker-65: Import Getting Started Content] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /01-orderservice-solution/src/main/resources
+2020-03-21 12:59:29,180 [Worker-65: Import Getting Started Content] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /01-orderservice-solution/src/test/java
+2020-03-21 12:59:29,415 [Worker-65: Import Getting Started Content] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Update completed: 1 sec
+2020-03-21 12:59:30,240 [Worker-65: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-03-21 12:59:30,241 [Worker-65: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2020-03-21 12:59:30,244 [Worker-65: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2020-03-21 12:59:30,247 [Worker-65: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-03-21 12:59:30,247 [Worker-65: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\micro-2020\eventsourcing-cqrs-saga-april-2020\ws\01-orderservice-solution\src\test\resources
+2020-03-21 13:00:31,117 [Worker-66: Building workspace] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: com.way2learnonline:01-orderservice-solution:0.0.1-SNAPSHOT @ D:\micro-2020\eventsourcing-cqrs-saga-april-2020\ws\01-orderservice-solution\pom.xml.
+2020-03-21 13:00:31,997 [Worker-66: Building workspace] WARN  o.e.m.c.i.embedder.EclipseLogger - The POM for com.way2learnonline:core-apis:jar:0.0.1-SNAPSHOT is missing, no dependency information available
+2020-03-21 13:00:32,476 [Worker-66: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-03-21 13:00:32,476 [Worker-66: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2020-03-21 13:00:32,476 [Worker-66: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2020-03-21 13:00:32,478 [Worker-66: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-03-21 13:00:32,478 [Worker-66: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\micro-2020\eventsourcing-cqrs-saga-april-2020\ws\01-orderservice-solution\src\test\resources
+2020-03-21 13:00:49,064 [Worker-66: Launching Executing install in D__micro-2020_eventsourcing-cqrs-saga-april-2020_ws_01-saga-coreapis] INFO  o.e.m.i.launch.MavenLaunchDelegate - D:\micro-2020\eventsourcing-cqrs-saga-april-2020\ws\01-saga-coreapis
+2020-03-21 13:00:49,064 [Worker-66: Launching Executing install in D__micro-2020_eventsourcing-cqrs-saga-april-2020_ws_01-saga-coreapis] INFO  o.e.m.i.launch.MavenLaunchDelegate -  mvn -Ppom.xml -B install -Dstyle.color=always
+2020-03-21 13:01:10,232 [Worker-66: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-03-21 13:01:10,233 [Worker-66: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2020-03-21 13:01:10,235 [Worker-66: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2020-03-21 13:01:10,237 [Worker-66: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-03-21 13:01:10,237 [Worker-66: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\micro-2020\eventsourcing-cqrs-saga-april-2020\ws\01-saga-coreapis\src\test\resources
+2020-03-21 13:01:30,553 [Worker-68: Updating Maven Project] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Update started
+2020-03-21 13:01:31,541 [Worker-68: Updating Maven Project] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: com.way2learnonline:01-orderservice-solution:0.0.1-SNAPSHOT @ D:\micro-2020\eventsourcing-cqrs-saga-april-2020\ws\01-orderservice-solution\pom.xml.
+2020-03-21 13:01:32,790 [DefaultMetadataResolver-3-0] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/io/grpc/grpc-core/maven-metadata.xml
+2020-03-21 13:01:33,065 [DefaultMetadataResolver-3-0] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/io/grpc/grpc-core/maven-metadata.xml
+2020-03-21 13:01:33,197 [DefaultMetadataResolver-3-1] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://oss.sonatype.org/content/repositories/snapshots/io/grpc/grpc-core/maven-metadata.xml
+2020-03-21 13:01:33,448 [DefaultMetadataResolver-3-1] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://oss.sonatype.org/content/repositories/snapshots/io/grpc/grpc-core/maven-metadata.xml
+2020-03-21 13:01:33,565 [Worker-68: Updating Maven Project] WARN  o.e.m.c.i.embedder.EclipseLogger - The POM for com.way2learnonline:core-apis:jar:0.0.1-SNAPSHOT is missing, no dependency information available
+2020-03-21 13:01:33,935 [Worker-68: Updating Maven Project] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: com.way2learnonline:01-es-cqrs-queryapp-solution:0.0.1-SNAPSHOT @ D:\micro-2020\eventsourcing-cqrs-saga-april-2020\ws\01-es-cqrs-queryapp-solution\pom.xml.
+2020-03-21 13:01:34,182 [DefaultMetadataResolver-4-0] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/io/grpc/grpc-api/maven-metadata.xml
+2020-03-21 13:01:34,342 [DefaultMetadataResolver-4-0] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/io/grpc/grpc-api/maven-metadata.xml
+2020-03-21 13:01:35,327 [DefaultMetadataResolver-4-1] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://oss.sonatype.org/content/repositories/snapshots/io/grpc/grpc-api/maven-metadata.xml
+2020-03-21 13:01:35,555 [DefaultMetadataResolver-4-1] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://oss.sonatype.org/content/repositories/snapshots/io/grpc/grpc-api/maven-metadata.xml
+2020-03-21 13:01:35,714 [DefaultMetadataResolver-5-0] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/com/google/errorprone/error_prone_annotations/maven-metadata.xml
+2020-03-21 13:01:35,785 [DefaultMetadataResolver-5-1] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://oss.sonatype.org/content/repositories/snapshots/com/google/errorprone/error_prone_annotations/maven-metadata.xml
+2020-03-21 13:01:35,863 [DefaultMetadataResolver-5-0] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/com/google/errorprone/error_prone_annotations/maven-metadata.xml
+2020-03-21 13:01:36,017 [DefaultMetadataResolver-5-1] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://oss.sonatype.org/content/repositories/snapshots/com/google/errorprone/error_prone_annotations/maven-metadata.xml
+2020-03-21 13:01:36,398 [Worker-68: Updating Maven Project] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: com.way2learnonline:01-es-cqrs-commandapp-solution:0.0.1-SNAPSHOT @ D:\micro-2020\eventsourcing-cqrs-saga-april-2020\ws\01-es-cqrs-commandapp-solution\pom.xml.
+2020-03-21 13:01:36,566 [Worker-68: Updating Maven Project] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: com.way2learnonline:01-saga-coreapis:0.0.1-SNAPSHOT @ D:\micro-2020\eventsourcing-cqrs-saga-april-2020\ws\01-saga-coreapis\pom.xml.
+2020-03-21 13:01:37,619 [Worker-68: Updating Maven Project] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /01-orderservice-solution/src/main/java
+2020-03-21 13:01:37,619 [Worker-68: Updating Maven Project] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /01-orderservice-solution/src/main/resources
+2020-03-21 13:01:37,619 [Worker-68: Updating Maven Project] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /01-orderservice-solution/src/main/resources
+2020-03-21 13:01:37,619 [Worker-68: Updating Maven Project] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /01-orderservice-solution/src/test/java
+2020-03-21 13:01:38,186 [Worker-68: Updating Maven Project] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Update completed: 7 sec
+2020-03-21 13:01:39,185 [Worker-61: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-03-21 13:01:39,199 [Worker-61: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2020-03-21 13:01:39,200 [Worker-61: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2020-03-21 13:01:39,204 [Worker-61: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-03-21 13:01:39,205 [Worker-61: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\micro-2020\eventsourcing-cqrs-saga-april-2020\ws\01-es-cqrs-commandapp-solution\src\test\resources
+2020-03-21 13:01:40,090 [Worker-61: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-03-21 13:01:40,090 [Worker-61: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2020-03-21 13:01:40,090 [Worker-61: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2020-03-21 13:01:40,092 [Worker-61: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-03-21 13:01:40,093 [Worker-61: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\micro-2020\eventsourcing-cqrs-saga-april-2020\ws\01-es-cqrs-queryapp-solution\src\test\resources
+2020-03-21 13:01:40,981 [Worker-61: Building workspace] WARN  o.e.m.c.i.embedder.EclipseLogger - The POM for com.way2learnonline:core-apis:jar:0.0.1-SNAPSHOT is missing, no dependency information available
+2020-03-21 13:01:41,294 [Worker-61: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-03-21 13:01:41,295 [Worker-61: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2020-03-21 13:01:41,307 [Worker-61: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2020-03-21 13:01:41,310 [Worker-61: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-03-21 13:01:41,310 [Worker-61: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\micro-2020\eventsourcing-cqrs-saga-april-2020\ws\01-orderservice-solution\src\test\resources
+2020-03-21 13:01:42,429 [Worker-61: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-03-21 13:01:42,430 [Worker-61: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2020-03-21 13:01:42,430 [Worker-61: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2020-03-21 13:01:42,432 [Worker-61: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-03-21 13:01:42,432 [Worker-61: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\micro-2020\eventsourcing-cqrs-saga-april-2020\ws\01-saga-coreapis\src\test\resources
+2020-03-21 13:01:58,492 [main] INFO  o.e.m2e.actions.ExecutePomAction - Creating new launch configuration
+2020-03-21 13:02:13,732 [Worker-69: Launching 01-saga-coreapis] INFO  o.e.m.i.launch.MavenLaunchDelegate - D:\micro-2020\eventsourcing-cqrs-saga-april-2020\ws\01-saga-coreapis
+2020-03-21 13:02:13,732 [Worker-69: Launching 01-saga-coreapis] INFO  o.e.m.i.launch.MavenLaunchDelegate -  mvn -B install -Dstyle.color=always
+2020-03-21 13:02:42,102 [Worker-61: Building workspace] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: com.way2learnonline:01-orderservice-solution:0.0.1-SNAPSHOT @ D:\micro-2020\eventsourcing-cqrs-saga-april-2020\ws\01-orderservice-solution\pom.xml.
+2020-03-21 13:02:42,816 [Worker-61: Building workspace] WARN  o.e.m.c.i.embedder.EclipseLogger - The POM for com.way2learnonline:core-apis:jar:0.0.1-SNAPSHOT is missing, no dependency information available
+2020-03-21 13:02:43,225 [Worker-61: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-03-21 13:02:43,226 [Worker-61: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2020-03-21 13:02:43,226 [Worker-61: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2020-03-21 13:02:43,228 [Worker-61: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-03-21 13:02:43,228 [Worker-61: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\micro-2020\eventsourcing-cqrs-saga-april-2020\ws\01-orderservice-solution\src\test\resources
+2020-03-21 13:02:49,931 [Worker-67: Building workspace] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: com.way2learnonline:01-orderservice-solution:0.0.1-SNAPSHOT @ D:\micro-2020\eventsourcing-cqrs-saga-april-2020\ws\01-orderservice-solution\pom.xml.
+2020-03-21 13:02:50,404 [Worker-70: reload maven project] WARN  o.e.m.c.i.embedder.EclipseLogger - The POM for com.way2learnonline:core-apis:jar:0.0.1-SNAPSHOT is missing, no dependency information available
+2020-03-21 13:02:50,406 [Worker-67: Building workspace] WARN  o.e.m.c.i.embedder.EclipseLogger - The POM for com.way2learnonline:core-apis:jar:0.0.1-SNAPSHOT is missing, no dependency information available
+2020-03-21 13:02:51,422 [Worker-67: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-03-21 13:02:51,422 [Worker-67: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2020-03-21 13:02:51,424 [Worker-67: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2020-03-21 13:02:51,425 [Worker-67: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-03-21 13:02:51,426 [Worker-67: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\micro-2020\eventsourcing-cqrs-saga-april-2020\ws\01-orderservice-solution\src\test\resources
+2020-03-21 13:02:56,673 [main] INFO  o.e.m2e.actions.ExecutePomAction - Creating new launch configuration
+2020-03-21 13:03:07,545 [Worker-65: Launching 01-saga-coreapis (1)] INFO  o.e.m.i.launch.MavenLaunchDelegate - D:\micro-2020\eventsourcing-cqrs-saga-april-2020\ws\01-saga-coreapis
+2020-03-21 13:03:07,545 [Worker-65: Launching 01-saga-coreapis (1)] INFO  o.e.m.i.launch.MavenLaunchDelegate -  mvn -B install -Dstyle.color=always
+2020-03-21 13:03:34,038 [Worker-67: Building workspace] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: com.way2learnonline:01-orderservice-solution:0.0.1-SNAPSHOT @ D:\micro-2020\eventsourcing-cqrs-saga-april-2020\ws\01-orderservice-solution\pom.xml.
+2020-03-21 13:03:34,670 [Worker-67: Building workspace] WARN  o.e.m.c.i.embedder.EclipseLogger - The POM for com.way2learnonline:core-apis:jar:0.0.1-SNAPSHOT is missing, no dependency information available
+2020-03-21 13:03:34,670 [Worker-69: reload maven project] WARN  o.e.m.c.i.embedder.EclipseLogger - The POM for com.way2learnonline:core-apis:jar:0.0.1-SNAPSHOT is missing, no dependency information available
+2020-03-21 13:03:35,769 [Worker-67: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-03-21 13:03:35,770 [Worker-67: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2020-03-21 13:03:35,770 [Worker-67: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2020-03-21 13:03:35,771 [Worker-67: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-03-21 13:03:35,772 [Worker-67: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\micro-2020\eventsourcing-cqrs-saga-april-2020\ws\01-orderservice-solution\src\test\resources
+2020-03-21 13:03:43,667 [Worker-69: Building workspace] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: com.way2learnonline:01-saga-coreapis:0.0.1-SNAPSHOT @ D:\micro-2020\eventsourcing-cqrs-saga-april-2020\ws\01-saga-coreapis\pom.xml.
+2020-03-21 13:03:44,107 [Worker-69: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-03-21 13:03:44,107 [Worker-69: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2020-03-21 13:03:44,107 [Worker-69: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2020-03-21 13:03:44,115 [Worker-69: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-03-21 13:03:44,115 [Worker-69: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\micro-2020\eventsourcing-cqrs-saga-april-2020\ws\01-saga-coreapis\src\test\resources
+2020-03-21 13:03:52,073 [main] INFO  o.e.m2e.actions.ExecutePomAction - Creating new launch configuration
+2020-03-21 13:04:00,924 [Worker-65: Launching 01-saga-coreapis (2)] INFO  o.e.m.i.launch.MavenLaunchDelegate - D:\micro-2020\eventsourcing-cqrs-saga-april-2020\ws\01-saga-coreapis
+2020-03-21 13:04:00,924 [Worker-65: Launching 01-saga-coreapis (2)] INFO  o.e.m.i.launch.MavenLaunchDelegate -  mvn -B install -Dstyle.color=always
+2020-03-21 13:04:19,858 [Worker-70: Updating Maven Project] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Update started
+2020-03-21 13:04:20,250 [Worker-70: Updating Maven Project] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: com.way2learnonline:01-orderservice-solution:0.0.1-SNAPSHOT @ D:\micro-2020\eventsourcing-cqrs-saga-april-2020\ws\01-orderservice-solution\pom.xml.
+2020-03-21 13:04:20,813 [Worker-70: Updating Maven Project] WARN  o.e.m.c.i.embedder.EclipseLogger - The POM for com.way2learnonline:core-apis:jar:0.0.1-SNAPSHOT is missing, no dependency information available
+2020-03-21 13:04:21,211 [Worker-70: Updating Maven Project] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /01-orderservice-solution/src/main/java
+2020-03-21 13:04:21,212 [Worker-70: Updating Maven Project] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /01-orderservice-solution/src/main/resources
+2020-03-21 13:04:21,212 [Worker-70: Updating Maven Project] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /01-orderservice-solution/src/main/resources
+2020-03-21 13:04:21,212 [Worker-70: Updating Maven Project] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /01-orderservice-solution/src/test/java
+2020-03-21 13:04:21,754 [Worker-70: Updating Maven Project] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Update completed: 1 sec
+2020-03-21 13:04:22,588 [Worker-70: Building workspace] WARN  o.e.m.c.i.embedder.EclipseLogger - The POM for com.way2learnonline:core-apis:jar:0.0.1-SNAPSHOT is missing, no dependency information available
+2020-03-21 13:04:22,763 [Worker-70: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-03-21 13:04:22,763 [Worker-70: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2020-03-21 13:04:22,764 [Worker-70: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2020-03-21 13:04:22,765 [Worker-70: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-03-21 13:04:22,766 [Worker-70: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\micro-2020\eventsourcing-cqrs-saga-april-2020\ws\01-orderservice-solution\src\test\resources
+2020-03-21 13:05:29,955 [Worker-66: Building workspace] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: com.way2learnonline:coreapis:0.0.1-SNAPSHOT @ D:\micro-2020\eventsourcing-cqrs-saga-april-2020\ws\01-saga-coreapis\pom.xml.
+2020-03-21 13:05:30,697 [Worker-66: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-03-21 13:05:30,698 [Worker-66: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2020-03-21 13:05:30,699 [Worker-66: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2020-03-21 13:05:30,702 [Worker-66: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-03-21 13:05:30,702 [Worker-66: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\micro-2020\eventsourcing-cqrs-saga-april-2020\ws\01-saga-coreapis\src\test\resources
+2020-03-21 13:05:36,630 [Worker-72: Building workspace] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: com.way2learnonline:01-orderservice-solution:0.0.1-SNAPSHOT @ D:\micro-2020\eventsourcing-cqrs-saga-april-2020\ws\01-orderservice-solution\pom.xml.
+2020-03-21 13:05:37,594 [Worker-72: Building workspace] INFO  o.e.m.c.i.p.WorkspaceClassifierResolverManager - Resolving P/01-saga-coreapis: com.way2learnonline:coreapis:0.0.1-SNAPSHOT with classifier  to /01-saga-coreapis/target/classes
+2020-03-21 13:05:37,811 [Worker-72: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-03-21 13:05:37,811 [Worker-72: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2020-03-21 13:05:37,811 [Worker-72: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2020-03-21 13:05:37,814 [Worker-72: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-03-21 13:05:37,814 [Worker-72: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\micro-2020\eventsourcing-cqrs-saga-april-2020\ws\01-orderservice-solution\src\test\resources
+2020-03-21 13:05:40,212 [Worker-61: Building workspace] INFO  o.e.m.c.i.p.WorkspaceClassifierResolverManager - Resolving P/01-saga-coreapis: com.way2learnonline:coreapis:0.0.1-SNAPSHOT with classifier  to /01-saga-coreapis/target/classes
+2020-03-21 13:05:40,229 [Worker-61: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-03-21 13:05:40,230 [Worker-61: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2020-03-21 13:05:40,232 [Worker-61: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2020-03-21 13:05:40,234 [Worker-61: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-03-21 13:05:40,234 [Worker-61: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\micro-2020\eventsourcing-cqrs-saga-april-2020\ws\01-orderservice-solution\src\test\resources
+2020-03-21 13:06:21,230 [Worker-70: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-03-21 13:06:21,230 [Worker-70: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2020-03-21 13:06:21,230 [Worker-70: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2020-03-21 13:06:21,231 [Worker-70: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-03-21 13:06:21,231 [Worker-70: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\micro-2020\eventsourcing-cqrs-saga-april-2020\ws\01-orderservice-solution\src\test\resources
+2020-03-21 13:06:26,830 [Worker-66: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-03-21 13:06:26,831 [Worker-66: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2020-03-21 13:06:26,832 [Worker-66: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2020-03-21 13:06:26,834 [Worker-66: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-03-21 13:06:26,834 [Worker-66: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\micro-2020\eventsourcing-cqrs-saga-april-2020\ws\01-orderservice-solution\src\test\resources
+2020-03-21 13:06:40,324 [Worker-67: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-03-21 13:06:40,325 [Worker-67: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2020-03-21 13:06:40,327 [Worker-67: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2020-03-21 13:06:40,328 [Worker-67: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-03-21 13:06:40,328 [Worker-67: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\micro-2020\eventsourcing-cqrs-saga-april-2020\ws\01-orderservice-solution\src\test\resources
+2020-03-21 13:06:42,506 [Worker-68: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-03-21 13:06:42,506 [Worker-68: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2020-03-21 13:06:42,507 [Worker-68: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2020-03-21 13:06:42,510 [Worker-68: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-03-21 13:06:42,511 [Worker-68: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\micro-2020\eventsourcing-cqrs-saga-april-2020\ws\01-orderservice-solution\src\test\resources
+2020-03-21 13:06:51,860 [Worker-67: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-03-21 13:06:51,860 [Worker-67: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2020-03-21 13:06:51,866 [Worker-67: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2020-03-21 13:06:51,868 [Worker-67: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-03-21 13:06:51,868 [Worker-67: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\micro-2020\eventsourcing-cqrs-saga-april-2020\ws\01-orderservice-solution\src\test\resources
+2020-03-21 13:07:42,319 [Worker-67: Building workspace] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: com.way2learnonline:01-orderservice-solution:0.0.1-SNAPSHOT @ D:\micro-2020\eventsourcing-cqrs-saga-april-2020\ws\01-orderservice-solution\pom.xml.
+2020-03-21 13:07:43,184 [Worker-67: Building workspace] INFO  o.e.m.c.i.p.WorkspaceClassifierResolverManager - Resolving P/01-saga-coreapis: com.way2learnonline:coreapis:0.0.1-SNAPSHOT with classifier  to /01-saga-coreapis/target/classes
+2020-03-21 13:07:43,348 [Worker-67: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-03-21 13:07:43,349 [Worker-67: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2020-03-21 13:07:43,349 [Worker-67: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2020-03-21 13:07:43,350 [Worker-67: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-03-21 13:07:43,351 [Worker-67: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\micro-2020\eventsourcing-cqrs-saga-april-2020\ws\01-orderservice-solution\src\test\resources
+2020-03-21 13:07:44,619 [Worker-72: Building workspace] INFO  o.e.m.c.i.p.WorkspaceClassifierResolverManager - Resolving P/01-saga-coreapis: com.way2learnonline:coreapis:0.0.1-SNAPSHOT with classifier  to /01-saga-coreapis/target/classes
+2020-03-21 13:07:44,622 [Worker-72: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-03-21 13:07:44,622 [Worker-72: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2020-03-21 13:07:44,624 [Worker-72: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2020-03-21 13:07:44,625 [Worker-72: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-03-21 13:07:44,625 [Worker-72: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\micro-2020\eventsourcing-cqrs-saga-april-2020\ws\01-orderservice-solution\src\test\resources
+2020-03-21 13:08:52,649 [Worker-68: Import Getting Started Content] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: com.way2learnonline:02-paymentservice-solution:0.0.1-SNAPSHOT @ D:\micro-2020\eventsourcing-cqrs-saga-april-2020\ws\02-paymentservice-solution\pom.xml.
+2020-03-21 13:08:53,276 [Worker-68: Import Getting Started Content] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /02-paymentservice-solution/src/main/java
+2020-03-21 13:08:53,277 [Worker-68: Import Getting Started Content] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /02-paymentservice-solution/src/main/resources
+2020-03-21 13:08:53,286 [Worker-68: Import Getting Started Content] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /02-paymentservice-solution/src/main/resources
+2020-03-21 13:08:53,298 [Worker-68: Import Getting Started Content] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /02-paymentservice-solution/src/test/java
+2020-03-21 13:08:53,826 [Worker-68: Import Getting Started Content] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Imported and configured 1 project(s) in 1 sec
+2020-03-21 13:08:53,827 [Worker-68: Import Getting Started Content] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Update started
+2020-03-21 13:08:54,098 [Worker-68: Import Getting Started Content] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: com.way2learnonline:02-paymentservice-solution:0.0.1-SNAPSHOT @ D:\micro-2020\eventsourcing-cqrs-saga-april-2020\ws\02-paymentservice-solution\pom.xml.
+2020-03-21 13:08:54,876 [Worker-68: Import Getting Started Content] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /02-paymentservice-solution/src/main/java
+2020-03-21 13:08:54,876 [Worker-68: Import Getting Started Content] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /02-paymentservice-solution/src/main/resources
+2020-03-21 13:08:54,877 [Worker-68: Import Getting Started Content] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /02-paymentservice-solution/src/main/resources
+2020-03-21 13:08:54,880 [Worker-68: Import Getting Started Content] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /02-paymentservice-solution/src/test/java
+2020-03-21 13:08:55,158 [Worker-68: Import Getting Started Content] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Update completed: 1 sec
+2020-03-21 13:08:55,858 [Worker-70: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-03-21 13:08:55,859 [Worker-70: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2020-03-21 13:08:55,861 [Worker-70: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2020-03-21 13:08:55,863 [Worker-70: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-03-21 13:08:55,863 [Worker-70: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\micro-2020\eventsourcing-cqrs-saga-april-2020\ws\02-paymentservice-solution\src\test\resources
+2020-03-21 13:09:10,200 [Worker-68: Building workspace] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: com.way2learnonline:01-orderservice-solution:0.0.1-SNAPSHOT @ D:\micro-2020\eventsourcing-cqrs-saga-april-2020\ws\01-orderservice-solution\pom.xml.
+2020-03-21 13:09:10,810 [Worker-68: Building workspace] INFO  o.e.m.c.i.p.WorkspaceClassifierResolverManager - Resolving P/01-saga-coreapis: com.way2learnonline:coreapis:0.0.1-SNAPSHOT with classifier  to /01-saga-coreapis/target/classes
+2020-03-21 13:09:11,027 [Worker-68: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-03-21 13:09:11,027 [Worker-68: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2020-03-21 13:09:11,027 [Worker-68: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2020-03-21 13:09:11,029 [Worker-68: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-03-21 13:09:11,029 [Worker-68: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\micro-2020\eventsourcing-cqrs-saga-april-2020\ws\01-orderservice-solution\src\test\resources
+2020-03-21 13:09:13,056 [Worker-61: Building workspace] INFO  o.e.m.c.i.p.WorkspaceClassifierResolverManager - Resolving P/01-saga-coreapis: com.way2learnonline:coreapis:0.0.1-SNAPSHOT with classifier  to /01-saga-coreapis/target/classes
+2020-03-21 13:09:13,058 [Worker-61: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-03-21 13:09:13,059 [Worker-61: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2020-03-21 13:09:13,060 [Worker-61: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2020-03-21 13:09:13,061 [Worker-61: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-03-21 13:09:13,061 [Worker-61: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\micro-2020\eventsourcing-cqrs-saga-april-2020\ws\01-orderservice-solution\src\test\resources
+2020-03-21 13:10:38,889 [Worker-67: Building workspace] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: com.way2learnonline:02-paymentservice-solution:0.0.1-SNAPSHOT @ D:\micro-2020\eventsourcing-cqrs-saga-april-2020\ws\02-paymentservice-solution\pom.xml.
+2020-03-21 13:10:39,438 [Worker-67: Building workspace] WARN  o.e.m.c.i.embedder.EclipseLogger - The POM for com.way2learnonline:core-apis:jar:0.0.1-SNAPSHOT is missing, no dependency information available
+2020-03-21 13:10:39,683 [Worker-67: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-03-21 13:10:39,683 [Worker-67: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2020-03-21 13:10:39,683 [Worker-67: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2020-03-21 13:10:39,685 [Worker-67: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-03-21 13:10:39,685 [Worker-67: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\micro-2020\eventsourcing-cqrs-saga-april-2020\ws\02-paymentservice-solution\src\test\resources
+2020-03-21 13:10:50,755 [Worker-66: Building workspace] WARN  o.e.m.c.i.embedder.EclipseLogger - The POM for com.way2learnonline:core-apis:jar:0.0.1-SNAPSHOT is missing, no dependency information available
+2020-03-21 13:10:50,802 [Worker-66: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-03-21 13:10:50,802 [Worker-66: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2020-03-21 13:10:50,802 [Worker-66: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2020-03-21 13:10:50,804 [Worker-66: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-03-21 13:10:50,804 [Worker-66: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\micro-2020\eventsourcing-cqrs-saga-april-2020\ws\02-paymentservice-solution\src\test\resources
+2020-03-21 13:11:06,340 [Worker-68: Building workspace] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: com.way2learnonline:02-paymentservice-solution:0.0.1-SNAPSHOT @ D:\micro-2020\eventsourcing-cqrs-saga-april-2020\ws\02-paymentservice-solution\pom.xml.
+2020-03-21 13:11:06,895 [Worker-68: Building workspace] INFO  o.e.m.c.i.p.WorkspaceClassifierResolverManager - Resolving P/01-saga-coreapis: com.way2learnonline:coreapis:0.0.1-SNAPSHOT with classifier  to /01-saga-coreapis/target/classes
+2020-03-21 13:11:07,087 [Worker-68: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-03-21 13:11:07,087 [Worker-68: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2020-03-21 13:11:07,087 [Worker-68: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2020-03-21 13:11:07,088 [Worker-68: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-03-21 13:11:07,089 [Worker-68: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\micro-2020\eventsourcing-cqrs-saga-april-2020\ws\02-paymentservice-solution\src\test\resources
+2020-03-21 13:11:08,953 [Worker-43: Building workspace] INFO  o.e.m.c.i.p.WorkspaceClassifierResolverManager - Resolving P/01-saga-coreapis: com.way2learnonline:coreapis:0.0.1-SNAPSHOT with classifier  to /01-saga-coreapis/target/classes
+2020-03-21 13:11:08,957 [Worker-43: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-03-21 13:11:08,957 [Worker-43: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2020-03-21 13:11:08,959 [Worker-43: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2020-03-21 13:11:08,960 [Worker-43: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-03-21 13:11:08,960 [Worker-43: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\micro-2020\eventsourcing-cqrs-saga-april-2020\ws\02-paymentservice-solution\src\test\resources
+2020-03-21 13:11:26,873 [Worker-68: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-03-21 13:11:26,874 [Worker-68: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2020-03-21 13:11:26,874 [Worker-68: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2020-03-21 13:11:26,878 [Worker-68: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-03-21 13:11:26,878 [Worker-68: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\micro-2020\eventsourcing-cqrs-saga-april-2020\ws\02-paymentservice-solution\src\test\resources
+2020-03-21 13:11:28,679 [Worker-70: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-03-21 13:11:28,679 [Worker-70: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2020-03-21 13:11:28,681 [Worker-70: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2020-03-21 13:11:28,682 [Worker-70: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-03-21 13:11:28,683 [Worker-70: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\micro-2020\eventsourcing-cqrs-saga-april-2020\ws\02-paymentservice-solution\src\test\resources
+2020-03-21 13:11:39,303 [Worker-68: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-03-21 13:11:39,304 [Worker-68: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2020-03-21 13:11:39,305 [Worker-68: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2020-03-21 13:11:39,307 [Worker-68: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-03-21 13:11:39,307 [Worker-68: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\micro-2020\eventsourcing-cqrs-saga-april-2020\ws\02-paymentservice-solution\src\test\resources
+2020-03-21 13:11:41,278 [Worker-68: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-03-21 13:11:41,278 [Worker-68: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2020-03-21 13:11:41,280 [Worker-68: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2020-03-21 13:11:41,282 [Worker-68: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-03-21 13:11:41,282 [Worker-68: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\micro-2020\eventsourcing-cqrs-saga-april-2020\ws\02-paymentservice-solution\src\test\resources
+2020-03-21 13:12:34,064 [Worker-61: Import Getting Started Content] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: com.way2learnonline:03-shipmentservice-solution:0.0.1-SNAPSHOT @ D:\micro-2020\eventsourcing-cqrs-saga-april-2020\ws\03-shipmentservice-solution\pom.xml.
+2020-03-21 13:12:34,564 [Worker-61: Import Getting Started Content] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /03-shipmentservice-solution/src/main/java
+2020-03-21 13:12:34,564 [Worker-61: Import Getting Started Content] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /03-shipmentservice-solution/src/main/resources
+2020-03-21 13:12:34,571 [Worker-61: Import Getting Started Content] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /03-shipmentservice-solution/src/main/resources
+2020-03-21 13:12:34,578 [Worker-61: Import Getting Started Content] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /03-shipmentservice-solution/src/test/java
+2020-03-21 13:12:35,095 [Worker-61: Import Getting Started Content] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Imported and configured 1 project(s) in 1 sec
+2020-03-21 13:12:35,096 [Worker-61: Import Getting Started Content] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Update started
+2020-03-21 13:12:35,360 [Worker-61: Import Getting Started Content] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: com.way2learnonline:03-shipmentservice-solution:0.0.1-SNAPSHOT @ D:\micro-2020\eventsourcing-cqrs-saga-april-2020\ws\03-shipmentservice-solution\pom.xml.
+2020-03-21 13:12:35,899 [Worker-61: Import Getting Started Content] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /03-shipmentservice-solution/src/main/java
+2020-03-21 13:12:35,900 [Worker-61: Import Getting Started Content] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /03-shipmentservice-solution/src/main/resources
+2020-03-21 13:12:35,901 [Worker-61: Import Getting Started Content] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /03-shipmentservice-solution/src/main/resources
+2020-03-21 13:12:35,904 [Worker-61: Import Getting Started Content] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /03-shipmentservice-solution/src/test/java
+2020-03-21 13:12:36,138 [Worker-61: Import Getting Started Content] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Update completed: 1 sec
+2020-03-21 13:12:36,817 [Worker-68: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-03-21 13:12:36,817 [Worker-68: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2020-03-21 13:12:36,818 [Worker-68: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2020-03-21 13:12:36,819 [Worker-68: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-03-21 13:12:36,819 [Worker-68: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\micro-2020\eventsourcing-cqrs-saga-april-2020\ws\03-shipmentservice-solution\src\test\resources
+2020-03-21 13:13:13,846 [Worker-72: Building workspace] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: com.way2learnonline:03-shipmentservice-solution:0.0.1-SNAPSHOT @ D:\micro-2020\eventsourcing-cqrs-saga-april-2020\ws\03-shipmentservice-solution\pom.xml.
+2020-03-21 13:13:14,460 [Worker-72: Building workspace] WARN  o.e.m.c.i.embedder.EclipseLogger - The POM for com.way2learnonline:core-apis:jar:0.0.1-SNAPSHOT is missing, no dependency information available
+2020-03-21 13:13:14,840 [Worker-72: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-03-21 13:13:14,841 [Worker-72: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2020-03-21 13:13:14,841 [Worker-72: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2020-03-21 13:13:14,843 [Worker-72: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-03-21 13:13:14,843 [Worker-72: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\micro-2020\eventsourcing-cqrs-saga-april-2020\ws\03-shipmentservice-solution\src\test\resources
+2020-03-21 13:13:26,759 [Worker-67: Building workspace] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: com.way2learnonline:03-shipmentservice-solution:0.0.1-SNAPSHOT @ D:\micro-2020\eventsourcing-cqrs-saga-april-2020\ws\03-shipmentservice-solution\pom.xml.
+2020-03-21 13:13:27,448 [Worker-72: reload maven project] INFO  o.e.m.c.i.p.WorkspaceClassifierResolverManager - Resolving P/01-saga-coreapis: com.way2learnonline:coreapis:0.0.1-SNAPSHOT with classifier  to /01-saga-coreapis/target/classes
+2020-03-21 13:13:27,448 [Worker-67: Building workspace] INFO  o.e.m.c.i.p.WorkspaceClassifierResolverManager - Resolving P/01-saga-coreapis: com.way2learnonline:coreapis:0.0.1-SNAPSHOT with classifier  to /01-saga-coreapis/target/classes
+2020-03-21 13:13:27,623 [Worker-67: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-03-21 13:13:27,624 [Worker-67: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2020-03-21 13:13:27,624 [Worker-67: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2020-03-21 13:13:27,625 [Worker-67: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-03-21 13:13:27,625 [Worker-67: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\micro-2020\eventsourcing-cqrs-saga-april-2020\ws\03-shipmentservice-solution\src\test\resources
+2020-03-21 13:13:29,835 [Worker-70: Building workspace] INFO  o.e.m.c.i.p.WorkspaceClassifierResolverManager - Resolving P/01-saga-coreapis: com.way2learnonline:coreapis:0.0.1-SNAPSHOT with classifier  to /01-saga-coreapis/target/classes
+2020-03-21 13:13:29,839 [Worker-70: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-03-21 13:13:29,839 [Worker-70: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2020-03-21 13:13:29,840 [Worker-70: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2020-03-21 13:13:29,842 [Worker-70: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-03-21 13:13:29,842 [Worker-70: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\micro-2020\eventsourcing-cqrs-saga-april-2020\ws\03-shipmentservice-solution\src\test\resources
+2020-03-21 13:13:36,007 [Worker-72: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-03-21 13:13:36,008 [Worker-72: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2020-03-21 13:13:36,008 [Worker-72: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2020-03-21 13:13:36,009 [Worker-72: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-03-21 13:13:36,009 [Worker-72: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\micro-2020\eventsourcing-cqrs-saga-april-2020\ws\03-shipmentservice-solution\src\test\resources
+2020-03-21 13:13:45,761 [Worker-70: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-03-21 13:13:45,761 [Worker-70: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2020-03-21 13:13:45,762 [Worker-70: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2020-03-21 13:13:45,766 [Worker-70: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-03-21 13:13:45,767 [Worker-70: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\micro-2020\eventsourcing-cqrs-saga-april-2020\ws\03-shipmentservice-solution\src\test\resources
+2020-03-21 13:13:50,105 [Worker-70: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-03-21 13:13:50,106 [Worker-70: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2020-03-21 13:13:50,106 [Worker-70: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2020-03-21 13:13:50,108 [Worker-70: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-03-21 13:13:50,108 [Worker-70: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\micro-2020\eventsourcing-cqrs-saga-april-2020\ws\03-shipmentservice-solution\src\test\resources
+2020-03-21 13:14:00,497 [Worker-68: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-03-21 13:14:00,498 [Worker-68: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2020-03-21 13:14:00,499 [Worker-68: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2020-03-21 13:14:00,501 [Worker-68: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-03-21 13:14:00,502 [Worker-68: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\micro-2020\eventsourcing-cqrs-saga-april-2020\ws\03-shipmentservice-solution\src\test\resources
+2020-03-21 13:14:09,897 [Worker-66: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-03-21 13:14:09,898 [Worker-66: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2020-03-21 13:14:09,899 [Worker-66: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2020-03-21 13:14:09,900 [Worker-66: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-03-21 13:14:09,900 [Worker-66: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\micro-2020\eventsourcing-cqrs-saga-april-2020\ws\03-shipmentservice-solution\src\test\resources
+2020-03-21 13:15:33,101 [Worker-72: Launching 01-orderservice-solution - OrderServiceApplication] INFO  o.e.m.c.i.p.WorkspaceClassifierResolverManager - Resolving P/01-saga-coreapis: com.way2learnonline:coreapis:0.0.1-SNAPSHOT with classifier null to /01-saga-coreapis/target/classes
+2020-03-21 13:15:37,049 [Worker-68: Launching 02-paymentservice-solution - PaymentServiceApplication] INFO  o.e.m.c.i.p.WorkspaceClassifierResolverManager - Resolving P/01-saga-coreapis: com.way2learnonline:coreapis:0.0.1-SNAPSHOT with classifier null to /01-saga-coreapis/target/classes
+2020-03-21 13:15:41,883 [Worker-68: Launching 03-shipmentservice-solution - ShippingServiceApplication] INFO  o.e.m.c.i.p.WorkspaceClassifierResolverManager - Resolving P/01-saga-coreapis: com.way2learnonline:coreapis:0.0.1-SNAPSHOT with classifier null to /01-saga-coreapis/target/classes
+2020-03-21 13:24:21,680 [Worker-76: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-03-21 13:24:21,681 [Worker-76: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2020-03-21 13:24:21,683 [Worker-76: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2020-03-21 13:24:21,686 [Worker-76: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-03-21 13:24:21,686 [Worker-76: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\micro-2020\eventsourcing-cqrs-saga-april-2020\ws\01-orderservice-solution\src\test\resources
+2020-03-21 13:24:36,529 [Worker-43: Launching 01-orderservice-solution - OrderServiceApplication] INFO  o.e.m.c.i.p.WorkspaceClassifierResolverManager - Resolving P/01-saga-coreapis: com.way2learnonline:coreapis:0.0.1-SNAPSHOT with classifier null to /01-saga-coreapis/target/classes
+2020-03-21 13:24:41,600 [Worker-76: Launching 02-paymentservice-solution - PaymentServiceApplication] INFO  o.e.m.c.i.p.WorkspaceClassifierResolverManager - Resolving P/01-saga-coreapis: com.way2learnonline:coreapis:0.0.1-SNAPSHOT with classifier null to /01-saga-coreapis/target/classes
+2020-03-21 13:24:57,049 [Worker-67: Launching 03-shipmentservice-solution - ShippingServiceApplication] INFO  o.e.m.c.i.p.WorkspaceClassifierResolverManager - Resolving P/01-saga-coreapis: com.way2learnonline:coreapis:0.0.1-SNAPSHOT with classifier null to /01-saga-coreapis/target/classes
+2020-03-21 13:25:02,502 [Worker-67: Launching 02-paymentservice-solution - PaymentServiceApplication] INFO  o.e.m.c.i.p.WorkspaceClassifierResolverManager - Resolving P/01-saga-coreapis: com.way2learnonline:coreapis:0.0.1-SNAPSHOT with classifier null to /01-saga-coreapis/target/classes
+2020-03-21 13:28:54,834 [Worker-83: Launching 01-orderservice-solution - OrderServiceApplication] INFO  o.e.m.c.i.p.WorkspaceClassifierResolverManager - Resolving P/01-saga-coreapis: com.way2learnonline:coreapis:0.0.1-SNAPSHOT with classifier null to /01-saga-coreapis/target/classes
+2020-03-21 13:28:59,985 [Worker-43: Launching 02-paymentservice-solution - PaymentServiceApplication] INFO  o.e.m.c.i.p.WorkspaceClassifierResolverManager - Resolving P/01-saga-coreapis: com.way2learnonline:coreapis:0.0.1-SNAPSHOT with classifier null to /01-saga-coreapis/target/classes
+2020-03-21 13:29:05,746 [Worker-73: Launching 03-shipmentservice-solution - ShippingServiceApplication] INFO  o.e.m.c.i.p.WorkspaceClassifierResolverManager - Resolving P/01-saga-coreapis: com.way2learnonline:coreapis:0.0.1-SNAPSHOT with classifier null to /01-saga-coreapis/target/classes
+2020-03-21 13:53:19,963 [Worker-87: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-03-21 13:53:19,965 [Worker-87: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2020-03-21 13:53:19,968 [Worker-87: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2020-03-21 13:53:19,970 [Worker-87: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-03-21 13:53:19,970 [Worker-87: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\micro-2020\eventsourcing-cqrs-saga-april-2020\ws\01-orderservice-solution\src\test\resources
+2020-03-21 13:53:42,714 [Worker-85: Launching 01-orderservice-solution - OrderServiceApplication] INFO  o.e.m.c.i.p.WorkspaceClassifierResolverManager - Resolving P/01-saga-coreapis: com.way2learnonline:coreapis:0.0.1-SNAPSHOT with classifier null to /01-saga-coreapis/target/classes
+2020-03-21 13:53:47,942 [Worker-85: Launching 02-paymentservice-solution - PaymentServiceApplication] INFO  o.e.m.c.i.p.WorkspaceClassifierResolverManager - Resolving P/01-saga-coreapis: com.way2learnonline:coreapis:0.0.1-SNAPSHOT with classifier null to /01-saga-coreapis/target/classes
+2020-03-21 13:53:53,722 [Worker-91: Launching 03-shipmentservice-solution - ShippingServiceApplication] INFO  o.e.m.c.i.p.WorkspaceClassifierResolverManager - Resolving P/01-saga-coreapis: com.way2learnonline:coreapis:0.0.1-SNAPSHOT with classifier null to /01-saga-coreapis/target/classes
+2020-03-21 13:55:02,906 [Worker-91: Launching 01-orderservice-solution - OrderServiceApplication] INFO  o.e.m.c.i.p.WorkspaceClassifierResolverManager - Resolving P/01-saga-coreapis: com.way2learnonline:coreapis:0.0.1-SNAPSHOT with classifier null to /01-saga-coreapis/target/classes
+2020-03-21 13:55:12,598 [Worker-87: Launching 02-paymentservice-solution - PaymentServiceApplication] INFO  o.e.m.c.i.p.WorkspaceClassifierResolverManager - Resolving P/01-saga-coreapis: com.way2learnonline:coreapis:0.0.1-SNAPSHOT with classifier null to /01-saga-coreapis/target/classes
+2020-03-21 13:55:40,388 [Worker-83: Launching 03-shipmentservice-solution - ShippingServiceApplication] INFO  o.e.m.c.i.p.WorkspaceClassifierResolverManager - Resolving P/01-saga-coreapis: com.way2learnonline:coreapis:0.0.1-SNAPSHOT with classifier null to /01-saga-coreapis/target/classes
+2020-03-21 13:59:27,106 [Worker-90: Launching 01-orderservice-solution - OrderServiceApplication] INFO  o.e.m.c.i.p.WorkspaceClassifierResolverManager - Resolving P/01-saga-coreapis: com.way2learnonline:coreapis:0.0.1-SNAPSHOT with classifier null to /01-saga-coreapis/target/classes
+2020-03-21 13:59:32,613 [Worker-96: Launching 02-paymentservice-solution - PaymentServiceApplication] INFO  o.e.m.c.i.p.WorkspaceClassifierResolverManager - Resolving P/01-saga-coreapis: com.way2learnonline:coreapis:0.0.1-SNAPSHOT with classifier null to /01-saga-coreapis/target/classes
+2020-03-21 13:59:38,062 [Worker-99: Launching 03-shipmentservice-solution - ShippingServiceApplication] INFO  o.e.m.c.i.p.WorkspaceClassifierResolverManager - Resolving P/01-saga-coreapis: com.way2learnonline:coreapis:0.0.1-SNAPSHOT with classifier null to /01-saga-coreapis/target/classes
+2020-03-21 14:22:35,958 [Worker-104: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-03-21 14:22:35,960 [Worker-104: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2020-03-21 14:22:35,963 [Worker-104: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2020-03-21 14:22:35,966 [Worker-104: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-03-21 14:22:35,966 [Worker-104: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\micro-2020\eventsourcing-cqrs-saga-april-2020\ws\02-paymentservice-solution\src\test\resources
+2020-03-21 14:23:51,381 [Worker-102: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-03-21 14:23:51,383 [Worker-102: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2020-03-21 14:23:51,384 [Worker-102: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2020-03-21 14:23:51,385 [Worker-102: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-03-21 14:23:51,385 [Worker-102: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\micro-2020\eventsourcing-cqrs-saga-april-2020\ws\01-saga-coreapis\src\test\resources
+2020-03-21 14:23:58,135 [Worker-105: Launching Executing install in D__micro-2020_eventsourcing-cqrs-saga-april-2020_ws_01-saga-coreapis] INFO  o.e.m.i.launch.MavenLaunchDelegate - D:\micro-2020\eventsourcing-cqrs-saga-april-2020\ws\01-saga-coreapis
+2020-03-21 14:23:58,136 [Worker-105: Launching Executing install in D__micro-2020_eventsourcing-cqrs-saga-april-2020_ws_01-saga-coreapis] INFO  o.e.m.i.launch.MavenLaunchDelegate -  mvn -Ppom.xml -B install -Dstyle.color=always
+2020-03-21 14:24:09,354 [Worker-105: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-03-21 14:24:09,356 [Worker-105: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2020-03-21 14:24:09,359 [Worker-105: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2020-03-21 14:24:09,362 [Worker-105: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-03-21 14:24:09,362 [Worker-105: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\micro-2020\eventsourcing-cqrs-saga-april-2020\ws\01-saga-coreapis\src\test\resources

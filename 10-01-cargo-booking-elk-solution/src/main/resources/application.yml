@@ -1,0 +1,70 @@
+server:
+  port: 8081
+  
+
+hystrix:
+  command:
+    default:
+      execution:
+        timeout:
+          enabled: false
+  
+routing-service:
+  ribbon:
+    ReadTimeout: 1000
+    ConnectTimeout: 1000   
+    MaxAutoRetriesNextServer: 4
+    MaxAutoRetries: 2
+  
+eureka:
+  instance:
+    instance-id: ${spring.application.name}:${random.value} 
+  client:
+    service-url:
+      defaultZone: http://localhost:5001/eureka
+
+
+spring:
+  application:
+    name: booking-service
+  cloud:
+    loadbalancer:
+      retry:
+        enabled: true
+    stream:
+      bindings:
+        cargoBookingChannel:
+          destination: cargoBookings          
+          binder: rabbit
+        cargoRoutingChannel:
+          destination: cargoRoutings         
+          binder: rabbit
+        cargoHandlingChannel:
+          destination: cargoHandling
+          group: cargoHandlingInBookingQueue
+          binder: rabbit
+      binders:
+        rabbit:
+          type: rabbit
+          environment:
+            spring:
+              rabbitmq:
+                host: localhost
+                port: 5672
+                username: guest
+                password: guest
+   
+                
+                
+                
+  jpa:
+    generate-ddl: true
+  h2:
+    console:
+      enabled: true
+      path: /h2-console
+      
+logging:
+  pattern:
+    console: "%clr(%d{yyyy-MM-dd HH:mm:ss.SSS}){faint} %clr(%5p) %clr(${PID:- }){magenta} %clr(---){faint} %clr([trace=%X{X-Trace-Id:-},span=%X{X-Span-Id:-}]){yellow} %clr([%15.15t]){faint} %clr(%-40.40logger{39}){cyan} %clr(:){faint} %m%replace(%xException){'\n','\u2028'}%nopex%n"
+  

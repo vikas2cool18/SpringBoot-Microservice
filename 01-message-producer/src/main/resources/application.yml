@@ -1,0 +1,21 @@
+spring:
+  cloud:
+    stream:
+      bindings:
+        hellooutchannel:
+          destination: helloexchange
+          #group: order
+          binder: rabbit1
+      binders:
+        rabbit1:
+          type: rabbit
+          environment:
+            spring:
+              rabbitmq:
+                host: localhost
+                port: 5672
+                username: guest
+                password: guest
+                
+server:  
+  port: ${PORT:2222}
